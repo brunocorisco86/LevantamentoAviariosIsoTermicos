@@ -1,0 +1,1090 @@
+﻿aviario;aquecimento_BTU_square_meter;modelo_aquecedor;velocidade_ar;entrada_ar_falso;nota_aquecimento;nota_velocidade_ar;nota_resfriamento;nota_vedacao;nota_obtida_total;categoria;modelo_aviario;posicionamento_pinteiro;aquecimento_principal
+101;544;Fornalha;3,1;1,28;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+102;280;Campânula;2,95;2,46;24;13;20;0;57;D;Climatizado Dark;Frente;Forno
+103;587;Fornalha;2,8;1,15;24;13;20;0;57;D;Climatizado Lona Clara;Meio;Forno
+104;333;Campânula;3,21;0;35;19;13;0;67;D;Climatizado Dark;Meio;Forno
+105;960;Fornalha;1,7;2,74;35;0;20;0;55;D;Convencional Lona Clara;Meio;Forno
+107;480;Fornalha;3,01;0;24;19;7;0;50;D;Climatizado Dark;Meio;Forno
+108;620;Fornalha;2,86;2,4;35;13;13;0;61;D;Climatizado Dark;Meio;Forno
+110;1072;Fornalha;2,3;2,06;35;7;13;0;55;D;Climatizado Dark;Meio;Forno
+111;373;Campânula;2,53;2,97;35;13;13;0;61;D;Climatizado Dark;Meio;Forno
+112;844;Fornalha;2,61;0,64;35;13;20;10;78;C;Climatizado Dark;Meio;Forno
+113;455;Fornalha;2,41;0,96;12;7;20;5;44;E;Climatizado Isolado Forro;Meio;Forno
+114;396;Fornalha;2,38;1,96;12;7;20;0;39;E;Convencional Lona Clara;Meio;Forno
+115;374;Campânula;2,33;1,12;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+117;438;Fornalha;1,93;0;12;0;13;0;25;F;Convencional Lona Clara;Meio;Campânula
+118;504;Fornalha;3,9;0,23;24;25;7;20;76;C;Convencional Lona Clara;Frente;Forno
+120;212;Campânula;2,36;0;12;7;13;0;32;E;Climatizado Dark;Meio;Forno
+121;350;Fornalha;2,85;1,43;12;13;20;0;45;E;Climatizado Dark;Meio;Forno
+122;292;Campânula;2,71;3,37;24;13;7;0;44;E;Convencional Lona Clara;Meio;Forno
+123;520;Fornalha;1,7;1,6;24;0;7;0;31;E;Climatizado Dark;Meio;Campânula
+124;599;Campânula;2,58;1,27;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+125;635;Fornalha;2,31;0;35;7;13;0;55;D;Convencional Lona Clara;Meio;Forno
+126;660;Fornalha;2,7;0;35;13;13;0;61;D;Convencional Lona Clara;Frente;Forno
+127;330;Campânula;3,58;0,25;35;25;20;20;100;B;Climatizado Lona Clara;Meio;Forno
+129;304;Campânula;2,53;1,23;24;13;13;0;50;D;Climatizado Dark;Meio;Forno
+130;304;Campânula;2,63;0,9;24;13;13;5;55;D;Climatizado Dark;Meio;Campânula
+131;1266;Fornalha;3,73;0,67;35;25;7;10;77;C;Climatizado Dark;Meio;Forno
+132;529;Fornalha;2,81;2,46;24;13;7;0;44;E;Convencional Lona Clara;Meio;Forno
+133;591;Fornalha;1,8;0;24;0;13;0;37;E;Convencional Lona Clara;Meio;Forno
+134;338;Campânula;3;0,8;35;19;20;5;79;C;Climatizado Dark;Meio;Forno
+135;550;Fornalha;3,08;0,82;24;19;20;5;68;D;Climatizado Dark;Meio;Forno
+136;250;Campânula;2,93;0;24;13;13;0;50;D;Climatizado Lona Clara;Meio;Forno
+137;575;Fornalha;3,1;2,9;24;19;13;0;56;D;Convencional Dark;Meio;Campânula
+138;821;Fornalha;2,93;1,3;35;13;7;0;55;D;Climatizado Dark;Meio;Forno
+139;680;Fornalha;2,83;4,17;35;13;7;0;55;D;Climatizado Dark;Meio;Forno
+140;287;Fornalha;2,71;0,91;0;13;13;5;31;E;Climatizado Dark;Meio;Forno
+141;630;Fornalha;2,53;1,85;35;13;13;0;61;D;Climatizado Dark;Meio;Forno
+142;392;Campânula;2,51;0,96;35;13;20;5;73;C;Convencional Lona Clara;Meio;Forno
+143;360;Campânula;4;0;35;25;13;0;73;C;Climatizado Dark;Meio;Campânula
+144;443;Campânula;2,56;0;35;13;13;0;61;D;Climatizado Dark;Meio;Campânula
+145;443;Campânula;2,38;0;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+147;569;Fornalha;3,23;0,86;24;19;20;5;68;D;Climatizado Dark;Meio;Forno
+148;569;Fornalha;3,43;0,86;24;19;20;5;68;D;Climatizado Dark;Meio;Campânula
+149;527;Fornalha;2,93;0,93;24;13;20;5;62;D;Climatizado Lona Clara;Meio;Forno
+150;525;Campânula;2,65;1,36;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+151;196;Campânula;2,4;1,04;12;7;20;0;39;E;Climatizado Lona Clara;Meio;Campânula
+152;196;Campânula;2,55;1,4;12;13;20;0;45;E;Climatizado Dark;Meio;Forno
+154;342;Campânula;3,01;0,87;35;19;20;5;79;C;Climatizado Dark;Meio;Forno
+155;380;Campânula;2,96;2,4;35;13;13;0;61;D;Climatizado Dark;Meio;Campânula
+156;380;Campânula;2,96;2,4;35;13;13;0;61;D;Convencional Lona Clara;Meio;Forno
+157;320;Campânula;2,58;0;24;13;20;0;57;D;Climatizado Lona Clara;Meio;Campânula
+158;350;Campânula;3,06;0,98;35;19;20;5;79;C;Climatizado Dark;Meio;Forno
+159;645;Fornalha;1,9;0;35;0;13;0;48;E;Convencional Dark;Meio;Forno
+160;408;Campânula;3,4;0,52;35;19;20;15;89;B;Climatizado Dark;Meio;Forno
+161;381;Fornalha;3,37;0,67;12;19;20;10;61;D;Convencional Dark;Meio;Forno
+162;222;Campânula;2,5;0;12;13;20;0;45;E;Climatizado Lona Clara;Meio;Campânula
+163;310;Campânula;2,3;1,45;24;7;20;0;51;D;Climatizado Dark;Meio;Forno
+164;233;Campânula;2,13;0;12;7;20;0;39;E;Climatizado Dark;Meio;Forno
+165;647;Fornalha;3,03;1,37;35;19;20;0;74;C;Climatizado Dark;Meio;Campânula
+166;335;Campânula;2,71;1,56;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+167;604;Fornalha;2,33;1,8;24;7;20;0;51;D;Climatizado Dark;Meio;Campânula
+169;291;Campânula;2,5;0;24;13;13;0;50;D;Climatizado Dark;Meio;Forno
+170;672;Campânula;3,7;0,49;35;25;20;15;95;B;Climatizado Dark;Meio;Campânula
+171;670;Campânula;3,7;0,6;35;25;20;10;90;A;Climatizado Dark;Meio;Forno
+172;321;Campânula;3,53;1,26;24;25;20;0;69;D;Climatizado Lona Clara;Meio;Forno
+181;260;Campânula;3,71;1,74;24;25;13;0;62;D;Climatizado Dark;Meio;Forno
+182;260;Campânula;3,51;1,79;24;25;13;0;62;D;Climatizado Dark;Meio;Campânula
+183;869;Fornalha;3,48;0,68;35;19;20;10;84;C;Convencional Lona Clara;Meio;Forno
+184;527;Fornalha;2,58;0,88;24;13;13;5;55;D;Climatizado Dark;Meio;Forno
+185;305;Campânula;3,08;1,08;24;19;20;0;63;D;Convencional Lona Clara;Meio;Campânula
+186;635;Fornalha;2,15;1,25;35;7;13;0;55;D;Climatizado Lona Clara;Meio;Forno
+188;547;Fornalha;2,05;1,22;24;7;13;0;44;E;Climatizado Dark;Meio;Forno
+189;504;Fornalha;2,18;1,28;24;7;13;0;44;E;Climatizado Dark;Meio;Forno
+190;330;Campânula;3,02;0,7;35;19;20;10;84;C;Climatizado Dark;Meio;Forno
+191;960;Fornalha;2,6;2,13;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+192;277;Campânula;2,76;1,03;24;13;20;0;57;D;Convencional Lona Clara;Meio;Forno
+193;339;Campânula;1,88;1,1;35;0;13;0;48;E;Climatizado Dark;Meio;Forno
+194;583;Fornalha;2,53;2,52;24;13;7;0;44;E;Climatizado Dark;Meio;Forno
+195;336;Campânula;2,48;1,12;35;7;13;0;55;D;Climatizado Dark;Meio;Forno
+196;464;Fornalha;3,01;0,43;12;19;13;15;59;D;Climatizado Dark;Meio;Forno
+197;330;Campânula;3,2;0,72;35;19;20;10;84;C;Indefinido;Indefinido;Indefinido
+200;866;Fornalha;2,88;1,76;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+201;262;Campânula;2,7;0;24;13;7;0;44;E;Convencional Lona Clara;Meio;Campânula
+202;622;Campânula;3;1,09;35;19;20;0;74;C;Convencional Lona Clara;Meio;Forno
+203;622;Campânula;3;0,64;35;19;20;10;84;C;Convencional Lona Clara;Meio;Campânula
+204;960;Fornalha;1,86;2,45;35;0;20;0;55;D;Climatizado Dark;Meio;Forno
+205;344;Campânula;3,3;1,36;35;19;13;0;67;D;Climatizado Dark;Meio;Forno
+206;496;Fornalha;2,46;4,26;24;7;13;0;44;E;Climatizado Dark;Meio;Forno
+207;284;Campânula;2,85;0;24;13;13;0;50;D;Climatizado Lona Clara;Frente;Forno
+208;349;Fornalha;3,53;1,6;0;25;7;0;32;E;Convencional Lona Clara;Meio;Forno
+209;320;Campânula;3,43;0,49;24;19;20;15;78;C;Convencional Dark;Meio;Campânula
+210;320;Campânula;3,16;0,49;24;19;20;15;78;C;Climatizado Dark;Meio;Forno
+211;284;Campânula;3,1;0;24;19;13;0;56;D;Convencional Lona Clara;Meio;Campânula
+212;496;Fornalha;1,7;3,4;24;0;13;0;37;E;Climatizado Lona Clara;Meio;Campânula
+215;388;Campânula;2,73;1,51;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+216;298;Campânula;3,05;1,14;24;19;20;0;63;D;Convencional Lona Clara;Meio;Forno
+217;333;Campânula;3,31;1,83;35;19;7;0;61;D;Convencional Lona Clara;Meio;Campânula
+218;389;Campânula;3,2;1,25;35;19;20;0;74;C;Convencional Lona Clara;Meio;Campânula
+219;238;Campânula;2,96;1,21;12;13;20;0;45;E;Climatizado Dark;Meio;Forno
+220;360;Fornalha;2,31;0;12;7;13;0;32;E;Climatizado Dark;Meio;Campânula
+221;360;Fornalha;1,93;0;12;0;13;0;25;F;Climatizado Dark;Meio;Forno
+222;360;Fornalha;1,95;0;12;0;13;0;25;F;Convencional Lona Clara;Meio;Forno
+224;724;Fornalha;2,3;6,09;35;7;7;0;49;E;Convencional Lona Clara;Meio;Forno
+225;724;Fornalha;2,21;0;35;7;0;0;42;E;Climatizado Dark;Meio;Forno
+226;333;Campânula;3,08;0,84;35;19;20;5;79;C;Climatizado Dark;Meio;Forno
+227;579;Fornalha;2,06;0;24;7;13;0;44;E;Indefinido;Indefinido;Indefinido
+228;216;Campânula;3,21;1,22;12;19;7;0;38;E;Climatizado Lona Clara;Meio;Forno
+229;264;Campânula;2,93;1,65;24;13;7;0;44;E;Climatizado Lona Clara;Meio;Campânula
+230;305;Campânula;2,81;1,46;24;13;20;0;57;D;Climatizado Dark;Meio;Forno
+231;260;Campânula;3,3;2,29;24;19;13;0;56;D;Climatizado Dark;Meio;Forno
+232;268;Campânula;3,53;2,22;24;25;13;0;62;D;Climatizado Dark;Meio;Forno
+236;734;Fornalha;3,1;2,78;35;19;7;0;61;D;Climatizado Dark;Meio;Campânula
+237;364;Campânula;2,81;0;35;13;7;0;55;D;Climatizado Lona Clara;Frente;Forno
+238;342;Campânula;2,56;0;35;13;7;0;55;D;Climatizado Dark;Meio;Forno
+239;650;Fornalha;2,8;1,49;35;13;20;0;68;D;Climatizado Dark;Meio;Forno
+240;320;Campânula;3;1,39;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+241;463;Fornalha;2,54;1,28;12;13;13;0;38;E;Climatizado Dark;Meio;Forno
+245;365;Campânula;3,11;1,93;35;19;7;0;61;D;Climatizado Dark;Meio;Forno
+246;634;Fornalha;2,2;0;35;7;13;0;55;D;Climatizado Lona Clara;Meio;Forno
+247;320;Campânula;2,56;0;24;13;20;0;57;D;Climatizado Dark;Meio;Forno
+248;320;Campânula;2,8;0,92;24;13;20;5;62;D;Climatizado Lona Clara;Meio;Campânula
+249;258;Fornalha;2,18;0;0;7;20;0;27;F;Climatizado Lona Clara;Meio;Campânula
+250;250;Campânula;3,1;0;24;19;13;0;56;D;Climatizado Dark;Frente;Forno
+251;334;Campânula;3,51;1,1;35;25;20;0;80;C;Climatizado Dark;Meio;Forno
+252;334;Campânula;3,55;1,1;35;25;20;0;80;C;Climatizado Lona Clara;Meio;Campânula
+253;240;Fornalha;1,91;2,24;0;0;13;0;13;F;Climatizado Lona Clara;Frente;Campânula
+255;420;Campânula;2,56;2,43;35;13;13;0;61;D;Convencional Lona Clara;Meio;Forno
+256;460;Campânula;2,81;1,23;35;13;20;0;68;D;Indefinido;Indefinido;Indefinido
+258;1258;Fornalha;3,01;0,68;35;19;13;10;77;C;Climatizado Dark;Meio;Forno
+261;320;Campânula;2,53;0;24;13;13;0;50;D;Convencional Lona Clara;Meio;Forno
+262;514;Fornalha;2,83;1,91;24;13;13;0;50;D;Convencional Lona Clara;Meio;Forno
+265;1340;Fornalha;3,25;2,42;35;19;20;0;74;C;Convencional Lona Clara;Meio;Campânula
+267;645;Fornalha;2,75;2,08;35;13;7;0;55;D;Convencional Lona Clara;Meio;Forno
+270;520;Fornalha;2,51;1,43;24;13;20;0;57;D;Climatizado Lona Clara;Meio;Forno
+271;544;Fornalha;3,01;1,45;24;19;20;0;63;D;Convencional Lona Clara;Meio;Forno
+272;555;Fornalha;2,93;0,64;24;13;13;10;60;D;Convencional Lona Clara;Frente;Forno
+273;534;Campânula;2,95;1,36;35;13;20;0;68;D;Climatizado Dark;Meio;Forno
+274;344;Campânula;3,28;0,81;35;19;20;5;79;C;Climatizado Lona Clara;Meio;Forno
+275;233;Campânula;2,18;0;12;7;13;0;32;E;Climatizado Dark;Meio;Forno
+277;355;Campânula;3,53;1,09;35;25;13;0;73;C;Convencional Lona Clara;Meio;Forno
+279;345;Campânula;3,3;0;35;19;13;0;67;D;Climatizado Dark;Meio;Forno
+280;320;Campânula;1,83;2,89;24;0;20;0;44;E;Climatizado Dark;Meio;Forno
+281;333;Campânula;2,93;0;35;13;13;0;61;D;Climatizado Dark;Meio;Forno
+282;296;Campânula;2,85;0;24;13;7;0;44;E;Convencional Lona Clara;Frente;Campânula
+283;552;Fornalha;3,56;0,65;24;25;20;10;79;C;Climatizado Dark;Meio;Campânula
+284;344;Campânula;3,21;1,26;35;19;13;0;67;D;Climatizado Lona Clara;Frente;Forno
+285;688;Fornalha;3,1;1,61;35;19;20;0;74;C;Indefinido;Indefinido;Indefinido
+286;291;Campânula;2,43;1,23;24;7;20;0;51;D;Climatizado Lona Clara;Fundo;Forno
+289;581;Fornalha;2,65;3,52;24;13;7;0;44;E;Climatizado Dark;Meio;Campânula
+290;1235;Fornalha;3,26;2,8;35;19;7;0;61;D;Convencional Lona Clara;Frente;Forno
+294;188;Campânula;2,85;2,3;12;13;7;0;32;E;Climatizado Dark;Meio;Forno
+295;242;Campânula;2,67;2,85;12;13;7;0;32;E;Climatizado Dark;Meio;Forno
+296;778;Fornalha;3;4,17;35;19;7;0;61;D;Climatizado Dark;Meio;Forno
+297;266;Campânula;4;0,43;24;25;20;15;84;C;Climatizado Dark;Meio;Forno
+298;266;Campânula;3,9;0,3;24;25;20;20;89;B;Climatizado Dark;Meio;Forno
+300;545;Fornalha;3,53;1,92;24;25;7;0;56;D;Indefinido;Indefinido;Indefinido
+302;465;Fornalha;3,11;2,21;24;19;7;0;50;D;Climatizado Lona Clara;Meio;Campânula
+303;382;Fornalha;2,45;0,15;12;7;20;20;59;D;Convencional Lona Clara;Meio;Forno
+304;834;Fornalha;2,25;1,1;35;7;20;0;62;D;Convencional Lona Clara;Meio;Turbo Aquecedor
+305;464;Fornalha;3;0,68;12;19;20;10;61;D;Convencional Lona Clara;Meio;Turbo Aquecedor
+306;525;Campânula;2,48;0,9;35;7;20;5;67;D;Climatizado Dark;Meio;Forno
+307;596;Fornalha;2,86;3,52;24;13;20;0;57;D;Climatizado Dark;Frente;Campânula
+308;1226;Fornalha;2,53;2,81;35;13;7;0;55;D;Convencional Lona Clara;Meio;Forno
+309;339;Campânula;2,16;0;35;7;13;0;55;D;Climatizado Lona Clara;Meio;Forno
+310;1102;Fornalha;3,23;0,82;35;19;20;5;79;C;Convencional Lona Clara;Meio;Forno
+311;564;Fornalha;3,1;0,91;24;19;20;5;68;D;Convencional Lona Clara;Meio;Forno
+312;280;Campânula;2,01;2,2;24;7;7;0;38;E;Convencional Lona Clara;Meio;Forno
+313;256;Campânula;2,96;1,07;24;13;13;0;50;D;Convencional Lona Clara;Meio;Forno
+314;170;Fornalha;2,61;1,02;0;13;13;0;26;F;Convencional Lona Clara;Meio;Campânula
+315;900;Fornalha;3,35;0,91;35;19;20;5;79;C;Indefinido;Indefinido;Indefinido
+316;390;Fornalha;3,33;1,96;12;19;20;0;51;D;Convencional Lona Clara;Meio;Campânula
+317;438;Fornalha;1,86;0;12;0;13;0;25;F;Climatizado Dark;Meio;Forno
+318;291;Campânula;2,61;0,75;24;13;20;10;67;D;Climatizado Dark;Meio;Campânula
+319;350;Campânula;3,1;1,6;35;19;13;0;67;D;Climatizado Dark;Meio;Campânula
+321;741;Fornalha;3,91;1,02;35;25;7;0;67;D;Climatizado Dark;Meio;Campânula
+322;317;Campânula;2,16;2,24;24;7;13;0;44;E;Climatizado Lona Clara;Meio;Forno
+323;291;Campânula;1,48;0;24;0;13;0;37;E;Convencional Lona Clara;Meio;Forno
+324;291;Campânula;1,58;0;24;0;13;0;37;E;Climatizado Dark;Meio;Forno
+325;311;Campânula;3,15;0,98;24;19;13;5;61;D;Climatizado Dark;Meio;Campânula
+326;311;Campânula;3,13;0,84;24;19;13;5;61;D;Climatizado Dark;Meio;Campânula
+327;311;Campânula;3,08;0,95;24;19;13;5;61;D;Climatizado Dark;Meio;Campânula
+328;311;Campânula;3,1;0,9;24;19;13;5;61;D;Climatizado Dark;Meio;Campânula
+329;204;Fornalha;2,7;0;0;13;20;0;33;E;Convencional Lona Clara;Meio;Forno
+330;617;Fornalha;1,99;3,43;35;0;7;0;42;E;Convencional Lona Clara;Meio;Forno
+331;355;Campânula;2,91;0,39;35;13;20;20;88;B;Climatizado Dark;Meio;Forno
+332;455;Campânula;1,96;1,03;35;0;20;0;55;D;Convencional Dark;Meio;Forno
+333;350;Campânula;2,41;1,02;35;7;20;0;62;D;Climatizado Dark;Meio;Forno
+334;702;Fornalha;2,03;1,38;35;7;7;0;49;E;Convencional Lona Clara;Meio;Forno
+335;170;Campânula;3,78;1,72;12;25;7;0;44;E;Indefinido;Indefinido;Indefinido
+336;220;Campânula;3,25;2,83;12;19;7;0;38;E;Convencional Lona Clara;Meio;Forno
+337;520;Campânula;3,7;0,49;35;25;20;15;95;A;Convencional Lona Clara;Meio;Forno
+339;679;Fornalha;3,66;0,44;35;25;20;15;95;B;Climatizado Dark;Meio;Forno
+340;240;Fornalha;3,08;1,27;0;19;20;0;39;E;Climatizado Dark;Frente;Turbo Aquecedor
+345;393;Fornalha;3,66;0,77;12;25;7;10;54;D;Climatizado Lona Clara;Frente;Forno
+347;300;Campânula;2,88;0,7;24;13;20;10;67;D;Climatizado Dark;Meio;Forno
+349;292;Campânula;2,8;3,37;24;13;7;0;44;E;Convencional Lona Clara;Meio;Forno
+350;443;Campânula;2,56;0;35;13;13;0;61;D;Indefinido;Indefinido;Indefinido
+351;336;Campânula;3,14;0,67;35;19;20;10;84;C;Convencional Lona Clara;Meio;Campânula
+352;336;Campânula;3,11;0,67;35;19;20;10;84;C;Convencional Lona Clara;Meio;Campânula
+353;336;Campânula;3,15;0,68;35;19;20;10;84;C;Convencional Lona Clara;Meio;Campânula
+354;336;Campânula;3,18;0,67;35;19;20;10;84;C;Convencional Lona Clara;Meio;Campânula
+355;438;Fornalha;2,23;0;12;7;13;0;32;E;Convencional Lona Clara;Meio;Forno
+356;468;Fornalha;2,8;0;24;13;7;0;44;E;Convencional Dark;Meio;Forno
+357;620;Fornalha;3,08;2,4;35;19;13;0;67;D;Convencional Lona Clara;Meio;Forno
+360;280;Campânula;2,88;0,77;24;13;13;10;60;D;Convencional Lona Clara;Meio;Forno
+361;280;Campânula;2,96;0,67;24;13;13;10;60;D;Indefinido;Indefinido;Indefinido
+362;280;Campânula;2,8;0,77;24;13;13;10;60;D;Indefinido;Indefinido;Indefinido
+363;280;Campânula;2,9;0,81;24;13;13;5;55;D;Convencional Lona Clara;Meio;Campânula
+365;183;Campânula;3,8;0,68;12;25;7;10;54;D;Convencional Lona Clara;Meio;Campânula
+366;183;Campânula;4,05;0,34;12;25;7;20;64;D;Convencional Lona Clara;Meio;Forno
+367;615;Fornalha;3,5;0,82;35;25;20;5;85;A;Convencional Lona Clara;Frente;Forno
+368;218;Campânula;2,7;0,53;12;13;13;15;53;D;Convencional Lona Clara;Meio;Forno
+369;560;Fornalha;3,32;0,78;24;19;20;10;73;C;Convencional Lona Clara;Meio;Forno
+370;379;Campânula;2,23;1,38;35;7;0;0;42;E;Convencional Lona Clara;Meio;Forno
+371;355;Campânula;3,08;0,51;35;19;20;15;89;B;Convencional Lona Clara;Meio;Forno
+373;679;Fornalha;2,8;0;35;13;7;0;55;D;Convencional Lona Clara;Meio;Forno
+374;679;Fornalha;2,9;0;35;13;7;0;55;D;Convencional Lona Clara;Frente;Forno
+375;679;Fornalha;2,37;0;35;7;0;0;42;E;Convencional Lona Clara;Meio;Campânula
+376;500;Fornalha;2,67;1;24;13;20;0;57;D;Convencional Lona Clara;Meio;Forno
+378;335;Campânula;3,18;0,66;35;19;13;10;77;C;Climatizado Dark;Meio;Campânula
+379;410;Campânula;2,91;1,27;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+380;389;Campânula;2,56;1,27;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+381;285;Campânula;2,6;1,66;24;13;13;0;50;D;Convencional Lona Clara;Meio;Forno
+383;280;Campânula;1,98;1,61;24;0;7;0;31;E;Convencional Lona Clara;Meio;Forno
+384;1045;Fornalha;1,86;3,72;35;0;20;0;55;D;Convencional Lona Clara;Meio;Forno
+385;1045;Fornalha;2,3;1,94;35;7;20;0;62;D;Climatizado Dark;Meio;Campânula
+386;630;Fornalha;3,2;2,2;35;19;13;0;67;D;Convencional Lona Clara;Meio;Forno
+387;531;Campânula;2,25;0;35;7;7;0;49;E;Convencional Lona Clara;Meio;Forno
+388;465;Fornalha;2,5;2,1;24;13;0;0;37;E;Convencional Lona Clara;Meio;Forno
+391;447;Campânula;2,01;15,9;35;7;7;0;49;E;Climatizado Dark;Meio;Forno
+392;318;Campânula;2,51;0;24;13;0;0;37;E;Climatizado Dark;Meio;Forno
+393;332;Campânula;2,36;0;35;7;0;0;42;E;Convencional Dark;Meio;Forno
+394;395;Campânula;2,88;1,78;35;13;0;0;48;E;Convencional Dark;Meio;Forno
+395;632;Fornalha;3,88;0,92;35;25;7;5;72;C;Convencional Lona Clara;Frente;Forno
+396;433;Fornalha;3,31;0,92;12;19;7;5;43;E;Climatizado Dark;Meio;Campânula
+397;630;Fornalha;2,88;0;35;13;7;0;55;D;Convencional Lona Clara;Meio;Forno
+399;646;Fornalha;3,8;1,9;35;25;7;0;67;D;Climatizado Dark;Meio;Forno
+400;646;Fornalha;4;2,3;35;25;7;0;67;D;Climatizado Dark;Meio;Forno
+401;646;Fornalha;3,7;2,02;35;25;7;0;67;D;Convencional Lona Clara;Meio;Forno
+405;561;Fornalha;2,81;0,95;24;13;13;5;55;D;Convencional Lona Clara;Meio;Forno
+406;580;Fornalha;2,9;0,69;24;13;13;10;60;D;Convencional Lona Clara;Meio;Campânula
+407;630;Fornalha;2,08;1,85;35;7;13;0;55;D;Climatizado Dark;Meio;Forno
+408;510;Fornalha;3,13;3,26;24;19;7;0;50;D;Convencional Lona Clara;Meio;Forno
+409;960;Fornalha;3,31;0;35;19;7;0;61;D;Convencional Lona Clara;Meio;Forno
+410;960;Fornalha;3,11;0;35;19;7;0;61;D;Convencional Lona Clara;Meio;Forno
+411;620;Fornalha;3,16;3,23;35;19;7;0;61;D;Climatizado Dark;Meio;Campânula
+412;370;Fornalha;2,32;0;12;7;0;0;19;F;Convencional Lona Clara;Meio;Campânula
+413;927;Fornalha;1,63;0;35;0;7;0;42;E;Indefinido;Indefinido;Indefinido
+414;898;Fornalha;1,68;0;35;0;7;0;42;E;Convencional Lona Clara;Meio;Forno
+415;148;Fornalha;1,66;2,16;0;0;7;0;7;F;Indefinido;Indefinido;Indefinido
+416;237;Campânula;2,35;0;12;7;0;0;19;F;Climatizado Dark;Meio;Campânula
+418;420;Fornalha;2,51;1,59;12;13;7;0;32;E;Climatizado Dark;Meio;Campânula
+419;337;Campânula;1,7;3,26;35;0;7;0;42;E;Convencional Lona Clara;Meio;Forno
+420;337;Campânula;2,8;3,43;35;13;7;0;55;D;Indefinido;Indefinido;Indefinido
+421;378;Campânula;2,76;3,74;35;13;7;0;55;D;Climatizado Dark;Meio;Forno
+422;260;Campânula;1,93;3,5;24;0;13;0;37;E;Climatizado Dark;Meio;Forno
+423;695;Fornalha;2,85;1,05;35;13;7;0;55;D;Climatizado Dark;Frente;Campânula
+424;695;Fornalha;2,9;1,05;35;13;7;0;55;D;Climatizado Dark;Meio;Campânula
+425;630;Fornalha;2,23;0;35;7;7;0;49;E;Climatizado Dark;Meio;Campânula
+426;630;Fornalha;2,82;0;35;13;7;0;55;D;Indefinido;Indefinido;Indefinido
+427;213;Campânula;2,15;0;12;7;13;0;32;E;Indefinido;Indefinido;Indefinido
+428;600;Fornalha;2,95;1,35;24;13;7;0;44;E;Convencional Lona Clara;Meio;Campânula
+429;600;Fornalha;2,95;1,3;24;13;7;0;44;E;Convencional Lona Clara;Meio;Campânula
+430;505;Campânula;3,5;0,78;35;13;20;0;68;D;Convencional Lona Clara;Meio;Forno
+431;1226;Fornalha;3,08;2,44;35;19;7;0;61;D;Climatizado Dark;Meio;Forno
+432;653;Fornalha;3,35;0,49;35;19;7;15;76;C;Convencional Dark;Frente;Campânula
+433;440;Fornalha;2,95;1,51;12;13;20;0;45;E;Convencional Lona Clara;Meio;Forno
+434;413;Fornalha;2,7;1,79;12;13;20;0;45;E;Convencional Lona Clara;Meio;Forno
+435;596;Fornalha;2,58;3,52;24;13;20;0;57;D;Convencional Lona Clara;Meio;Forno
+436;520;Fornalha;3;3,6;24;19;13;0;56;D;Convencional Lona Clara;Frente;Forno
+437;446;Fornalha;2,75;3,43;12;13;7;0;32;E;Convencional Lona Clara;Meio;Forno
+438;380;Campânula;3;2,3;35;19;13;0;67;D;Convencional Lona Clara;Meio;Forno
+439;679;Fornalha;4,06;0,61;35;25;20;10;90;B;Convencional Lona Clara;Meio;Campânula
+440;817;Fornalha;3,5;1,45;35;25;20;0;80;C;Climatizado Dark;Meio;Forno
+441;1072;Fornalha;2,31;1,98;35;7;20;0;62;D;Climatizado Dark;Meio;Forno
+442;620;Fornalha;3,05;1,78;35;19;13;0;67;D;Convencional Lona Clara;Meio;Forno
+443;976;Fornalha;2,76;0;35;13;7;0;55;D;Climatizado Dark;Meio;Forno
+444;480;Fornalha;3,15;0;24;19;7;0;50;D;Climatizado Dark;Meio;Forno
+445;186;Fornalha;2,45;2,75;0;7;13;0;20;F;Convencional Lona Clara;Meio;Forno
+447;500;Fornalha;3,05;1,7;24;19;7;0;50;D;Convencional Lona Clara;Meio;Forno
+448;504;Fornalha;3,4;0,18;24;19;7;20;70;C;Convencional Lona Clara;Meio;Forno
+449;188;Campânula;2,66;2,2;12;13;7;0;32;E;Convencional Lona Clara;Meio;Forno
+450;342;Campânula;3,71;1,61;35;25;13;0;73;C;Convencional Lona Clara;Meio;Forno
+451;573;Fornalha;2,48;0;24;7;7;0;38;E;Convencional Dark;Meio;Campânula
+453;350;Fornalha;2,6;0;12;13;0;0;25;F;Climatizado Lona Clara;Meio;Forno
+455;340;Campânula;2,75;1,17;35;13;20;0;68;D;Climatizado Dark;Meio;Forno
+457;1266;Fornalha;3,5;1,12;35;25;7;0;67;D;Convencional Lona Clara;Meio;Forno
+458;426;Campânula;3,83;0,78;35;25;20;10;90;B;Convencional Lona Clara;Meio;Forno
+459;285;Campânula;2,85;0,79;24;13;13;10;60;D;Convencional Lona Clara;Frente;Forno
+461;581;Fornalha;2,21;3,21;24;7;7;0;38;E;Convencional Lona Clara;Meio;Forno
+462;330;Campânula;3,15;0,69;35;19;20;10;84;C;Climatizado Dark;Meio;Forno
+465;353;Campânula;1,93;1,53;35;0;13;0;48;E;Convencional Lona Clara;Meio;Campânula
+466;250;Campânula;3,26;2,56;24;19;20;0;63;D;Convencional Lona Clara;Meio;Campânula
+467;266;Campânula;3,81;0,36;24;25;20;20;89;B;Convencional Lona Clara;Meio;Forno
+468;300;Campânula;3,6;0,86;24;25;20;5;74;C;Convencional Lona Clara;Meio;Forno
+469;308;Campânula;2,68;3,25;24;13;13;0;50;D;Climatizado Dark;Meio;Forno
+470;400;Fornalha;2,03;1,22;12;7;20;0;39;E;Climatizado Dark;Meio;Campânula
+471;390;Fornalha;1,82;2,33;12;0;20;0;32;E;Climatizado Dark;Meio;Campânula
+472;243;Campânula;2,67;0;12;13;0;0;25;F;Climatizado Dark;Meio;Forno
+473;333;Campânula;2,85;2,25;35;13;0;0;48;E;Climatizado Lona Clara;Frente;Campânula
+474;695;Fornalha;3,01;0,52;35;19;7;15;76;C;Convencional Lona Clara;Frente;Campânula
+475;512;Fornalha;3,75;0,71;24;25;20;10;79;C;Indefinido;Indefinido;Indefinido
+476;490;Fornalha;2,75;0,66;24;13;20;10;67;D;Climatizado Dark;Meio;Campânula
+477;490;Fornalha;2,58;0,51;24;13;20;15;72;C;Climatizado Dark;Meio;Campânula
+478;490;Fornalha;2,56;0,86;24;13;20;5;62;D;Convencional Lona Clara;Meio;Campânula
+479;430;Campânula;2,76;3,17;35;13;20;0;68;D;Convencional Lona Clara;Meio;Forno
+480;836;Fornalha;3,63;1,09;35;25;7;0;67;D;Convencional Lona Clara;Meio;Campânula
+481;308;Campânula;2,05;2,57;24;7;7;0;38;E;Convencional Lona Clara;Meio;Forno
+482;836;Fornalha;3,41;2,06;35;19;7;0;61;D;Convencional Lona Clara;Meio;Forno
+483;205;Campânula;3,98;0,64;12;25;7;10;54;D;Convencional Lona Clara;Meio;Forno
+484;284;Campânula;2,78;0;24;13;13;0;50;D;Convencional Isolado Forro;Meio;Forno
+487;817;Fornalha;3,46;1,37;35;19;20;0;74;C;Convencional Lona Clara;Meio;Campânula
+488;544;Fornalha;3,78;1,81;24;25;7;0;56;D;Convencional Lona Clara;Frente;Forno
+490;342;Campânula;3,76;1,32;35;25;13;0;73;C;Convencional Lona Clara;Frente;Forno
+491;430;Campânula;2,25;2,32;35;7;20;0;62;D;Convencional Lona Clara;Meio;Forno
+494;370;Fornalha;1,68;0;12;0;0;0;12;F;Convencional Dark;Meio;Campânula
+495;129;Campânula;2,72;0,63;0;13;0;10;23;F;Convencional Dark;Meio;Campânula
+496;128;Campânula;2,42;1,01;0;7;0;0;7;F;Convencional Lona Clara;Meio;Forno
+498;700;Fornalha;2,35;1,73;35;7;0;0;42;E;Convencional Lona Clara;Meio;Forno
+499;383;Campânula;2,65;3,25;35;13;7;0;55;D;Convencional Lona Clara;Meio;Forno
+501;465;Fornalha;3,2;0;24;19;7;0;50;D;Convencional Lona Clara;Meio;Forno
+502;346;Campânula;3,16;1,2;35;19;7;0;61;D;Convencional Lona Clara;Meio;Forno
+503;620;Fornalha;3,55;0,64;35;25;20;10;90;A;Convencional Lona Clara;Meio;Forno
+504;620;Fornalha;3,75;0,69;35;25;20;10;90;A;Convencional Lona Clara;Meio;Forno
+505;251;Fornalha;2,6;0;0;13;20;0;33;E;Convencional Lona Clara;Meio;Campânula
+506;266;Campânula;3;1,17;24;19;20;0;63;D;Climatizado Dark;Meio;Forno
+507;1045;Fornalha;3,5;1,65;35;25;7;0;67;D;Convencional Lona Clara;Meio;Forno
+508;521;Fornalha;2,55;1;24;13;0;0;37;E;Climatizado Dark;Meio;Forno
+509;552;Fornalha;2,71;2,03;24;13;0;0;37;E;Climatizado Dark;Meio;Forno
+511;555;Fornalha;1,66;4,3;24;0;7;0;31;E;Convencional Lona Clara;Meio;Forno
+512;600;Fornalha;2,7;0;24;13;0;0;37;E;Climatizado Dark;Meio;Forno
+513;412;Fornalha;3,38;1,1;12;19;7;0;38;E;Climatizado Dark;Frente;Forno
+514;350;Fornalha;1,83;1,51;12;0;20;0;32;E;Climatizado Dark;Meio;Campânula
+515;350;Fornalha;2,06;1,4;12;7;20;0;39;E;Convencional Lona Clara;Meio;Forno
+518;620;Fornalha;3,43;0,86;35;19;7;5;66;D;Convencional Lona Clara;Meio;Campânula
+519;612;Fornalha;3,08;0,8;35;19;7;5;66;D;Convencional Lona Clara;Meio;Forno
+520;736;Fornalha;2,61;3,87;35;13;20;0;68;D;Convencional Lona Clara;Meio;Forno
+521;821;Fornalha;2,71;1,76;35;13;7;0;55;D;Climatizado Dark;Meio;Campânula
+522;555;Fornalha;2,61;0,55;24;13;13;15;65;D;Climatizado Dark;Meio;Campânula
+523;280;Campânula;2,28;3,25;24;7;20;0;51;D;Convencional Lona Clara;Meio;Forno
+524;324;Campânula;3,01;0,85;24;19;13;5;61;D;Convencional Lona Clara;Meio;Forno
+525;338;Campânula;2,45;1,5;35;7;20;0;62;D;Convencional Lona Clara;Meio;Forno
+527;170;Fornalha;2,63;1,18;0;13;13;0;26;F;Climatizado Dark;Meio;Campânula
+528;292;Campânula;3,51;1,01;24;25;20;0;69;D;Convencional Lona Clara;Meio;Campânula
+529;900;Fornalha;2,95;0,84;35;13;20;5;73;C;Climatizado Lona Clara;Meio;Forno
+530;240;Campânula;3,35;1,27;12;19;20;0;51;D;Climatizado Dark;Meio;Forno
+531;305;Campânula;3,06;1,12;24;19;20;0;63;D;Convencional Lona Clara;Meio;Campânula
+532;243;Campânula;2,13;1;12;7;7;0;26;F;Climatizado Dark;Meio;Forno
+533;733;Fornalha;2,23;5,22;35;7;7;0;49;E;Climatizado Dark;Meio;Forno
+534;666;Fornalha;2,1;2,2;35;7;0;0;42;E;Convencional Lona Clara;Meio;Forno
+535;610;Fornalha;2,45;1,03;24;7;7;0;38;E;Climatizado Dark;Meio;Turbo Aquecedor
+536;456;Fornalha;2,7;1,53;12;13;20;0;45;E;Convencional Lona Clara;Meio;Campânula
+537;407;Fornalha;3,01;1,2;12;19;20;0;51;D;Convencional Lona Clara;Meio;Forno
+538;475;Fornalha;1,83;2,62;24;0;7;0;31;E;Convencional Lona Clara;Meio;Forno
+539;475;Fornalha;2,25;3,56;24;7;7;0;38;E;Convencional Lona Clara;Meio;Forno
+540;289;Campânula;2,76;1,81;24;13;7;0;44;E;Convencional Lona Clara;Meio;Forno
+541;280;Campânula;2,91;0;24;13;7;0;44;E;Climatizado Lona Clara;Meio;Forno
+542;702;Fornalha;1,85;1,5;35;0;7;0;42;E;Convencional Lona Clara;Meio;Forno
+543;601;Fornalha;2,58;1,55;24;13;20;0;57;D;Climatizado Dark;Meio;Forno
+548;190;Fornalha;1,9;2,16;0;0;7;0;7;F;Convencional Lona Clara;Meio;Forno
+549;620;Fornalha;3,35;5,78;35;19;7;0;61;D;Convencional Lona Clara;Meio;Forno
+550;350;Campânula;4,05;0,68;35;25;20;10;90;A;Convencional Lona Clara;Meio;Forno
+551;350;Campânula;3,86;0,78;35;25;20;10;90;A;Climatizado Lona Clara;Meio;Forno
+552;320;Campânula;2,63;0,81;24;13;13;5;55;D;Climatizado Lona Clara;Meio;Forno
+553;267;Campânula;3,38;1,31;24;19;20;0;63;D;Climatizado Dark;Meio;Forno
+555;545;Fornalha;2,63;0;24;13;7;0;44;E;Climatizado Lona Clara;Meio;Forno
+556;210;Campânula;2,8;0,82;12;13;20;5;50;D;Convencional Lona Clara;Meio;Forno
+557;520;Fornalha;3,25;1,3;24;19;7;0;50;D;Convencional Lona Clara;Meio;Forno
+558;520;Fornalha;3,25;1,3;24;19;7;0;50;D;Convencional Lona Clara;Meio;Forno
+559;520;Fornalha;3,3;1,3;24;19;7;0;50;D;Convencional Lona Clara;Meio;Campânula
+560;650;Fornalha;3,68;0,89;35;25;20;5;85;B;Convencional Lona Clara;Meio;Campânula
+561;612;Fornalha;2,96;0,6;35;13;20;10;78;C;Convencional Lona Clara;Meio;Forno
+562;650;Fornalha;3,68;1,09;35;25;20;0;80;C;Climatizado Dark;Meio;Forno
+563;231;Fornalha;2,68;0;0;13;7;0;20;F;Convencional Lona Clara;Meio;Campânula
+564;256;Campânula;2,33;0;24;7;0;0;31;E;Convencional Lona Clara;Meio;Forno
+565;647;Fornalha;3;1,1;35;19;20;0;74;C;Climatizado Dark;Meio;Campânula
+566;350;Fornalha;2,28;0;12;7;0;0;19;F;Convencional Lona Clara;Meio;Forno
+567;631;Fornalha;2,68;1,42;35;13;13;0;61;D;Climatizado Dark;Meio;Campânula
+568;632;Fornalha;2,66;1,42;35;13;13;0;61;D;Climatizado Dark;Meio;Forno
+569;510;Fornalha;2,1;0;24;7;0;0;31;E;Climatizado Dark;Meio;Forno
+570;510;Fornalha;2,2;0;24;7;13;0;44;E;Convencional Lona Clara;Meio;Forno
+571;630;Fornalha;2,43;1,85;35;7;13;0;55;D;Convencional Lona Clara;Meio;Campânula
+572;544;Fornalha;2,81;2,29;24;13;20;0;57;D;Convencional Lona Clara;Meio;Campânula
+573;171;Campânula;2,8;1,39;12;13;13;0;38;E;Convencional Lona Clara;Meio;Forno
+574;330;Fornalha;2,83;1,61;0;13;7;0;20;F;Convencional Lona Clara;Meio;Forno
+576;267;Campânula;2,4;2,61;24;7;7;0;38;E;Convencional Lona Clara;Meio;Campânula
+577;267;Campânula;2,35;3,23;24;7;7;0;38;E;Climatizado Dark;Meio;Forno
+578;510;Fornalha;2,2;0;24;7;0;0;31;E;Convencional Lona Clara;Meio;Forno
+579;480;Fornalha;1,96;0;24;0;0;0;24;F;Convencional Lona Clara;Meio;Forno
+583;193;Campânula;2,86;0,59;12;13;20;15;60;D;Climatizado Dark;Meio;Campânula
+584;193;Campânula;2,18;1,42;12;7;20;0;39;E;Climatizado Dark;Meio;Campânula
+586;195;Fornalha;2,93;1,75;0;13;7;0;20;F;Convencional Lona Clara;Meio;Campânula
+587;195;Fornalha;2,93;2,98;0;13;7;0;20;F;Convencional Lona Clara;Meio;Forno
+588;195;Fornalha;2,9;1,87;0;13;7;0;20;F;Climatizado Dark;Meio;Forno
+589;163;Campânula;2,71;0;0;13;13;0;26;F;Climatizado Dark;Meio;Forno
+590;163;Campânula;2,8;0;0;13;13;0;26;F;Convencional Lona Clara;Meio;Forno
+591;285;Campânula;3,38;0,8;24;19;7;5;55;D;Climatizado Dark;Meio;Campânula
+592;689;Fornalha;3,1;1,12;35;19;20;0;74;C;Convencional Lona Clara;Meio;Forno
+593;1072;Fornalha;3,21;1,35;35;19;20;0;74;C;Convencional Lona Clara;Meio;Forno
+594;339;Campânula;2,82;0,75;35;13;20;10;78;C;Climatizado Dark;Meio;Forno
+595;697;Fornalha;2,95;0,87;35;13;13;5;66;D;Convencional Lona Clara;Meio;Forno
+596;461;Fornalha;2,38;1,63;12;7;20;0;39;E;Convencional Lona Clara;Meio;Campânula
+597;1127;Fornalha;1,9;1,83;35;0;7;0;42;E;Convencional Lona Clara;Meio;Campânula
+598;338;Campânula;3,26;1,65;35;19;20;0;74;C;Convencional Lona Clara;Meio;Campânula
+599;252;Campânula;2,9;0;24;13;7;0;44;E;Convencional Lona Clara;Meio;Campânula
+600;392;Fornalha;3,21;0,9;12;19;7;5;43;E;Climatizado Dark;Meio;Forno
+601;412;Fornalha;3,22;0,7;12;19;7;10;48;E;Convencional Dark;Meio;Forno
+602;406;Fornalha;3,21;0,7;12;19;7;10;48;E;Climatizado Dark;Meio;Cubo
+603;465;Fornalha;2,58;0;24;13;7;0;44;E;Climatizado Dark;Meio;Cubo
+604;500;Fornalha;2,83;0;24;13;13;0;50;D;Convencional Lona Clara;Meio;Campânula
+605;700;Fornalha;1,83;1,94;35;0;0;0;35;E;Convencional Lona Clara;Frente;Forno
+606;372;Fornalha;3;0;12;19;20;0;51;D;Convencional Lona Clara;Meio;Campânula
+607;360;Campânula;3,78;1,42;35;25;13;0;73;C;Convencional Lona Clara;Meio;Campânula
+608;544;Fornalha;3,46;1;24;19;7;0;50;D;Convencional Lona Clara;Meio;Forno
+609;399;Fornalha;2,9;1,24;12;13;20;0;45;E;Indefinido;Indefinido;Indefinido
+610;252;Fornalha;3,56;1,99;0;25;0;0;25;F;Climatizado Dark;Meio;Forno
+611;440;Fornalha;2,46;1,56;12;7;20;0;39;E;Climatizado Dark;Meio;Forno
+612;440;Fornalha;2,41;1,56;12;7;20;0;39;E;Climatizado Lona Clara;Meio;Forno
+613;242;Campânula;2,13;0;12;7;0;0;19;F;Climatizado Dark;Meio;Forno
+614;273;Campânula;2,36;0;24;7;13;0;44;E;Convencional Lona Clara;Meio;Forno
+615;326;Campânula;3,08;0;24;19;13;0;56;D;Climatizado Dark;Meio;Forno
+616;340;Campânula;2,81;1,49;35;13;20;0;68;D;Climatizado Lona Clara;Meio;Forno
+617;1072;Fornalha;3,06;1,68;35;19;20;0;74;C;Convencional Lona Clara;Meio;Forno
+618;350;Fornalha;2,5;0;12;13;7;0;32;E;Convencional Lona Clara;Meio;Forno
+619;346;Fornalha;2,06;0;0;7;7;0;14;F;Convencional Lona Clara;Frente;Campânula
+620;275;Fornalha;2,9;2,91;0;13;7;0;20;F;Climatizado Dark;Meio;Campânula
+621;275;Fornalha;2,71;3,1;0;13;7;0;20;F;Climatizado Dark;Meio;Campânula
+622;476;Campânula;3,96;0,8;35;25;20;5;85;B;Climatizado Dark;Meio;Campânula
+623;370;Fornalha;3,5;0;12;25;7;0;44;E;Convencional Lona Clara;Frente;Forno
+625;134;Fornalha;3,25;0,86;0;19;13;5;37;E;Convencional Lona Clara;Meio;Forno
+626;395;Campânula;2,81;1,44;35;13;0;0;48;E;Convencional Lona Clara;Meio;Forno
+627;450;Fornalha;2,1;2,89;12;7;7;0;26;F;Convencional Lona Clara;Meio;Campânula
+628;230;Campânula;3,9;0;12;25;13;0;50;D;Climatizado Dark;Meio;Campânula
+630;292;Campânula;3,05;0,95;24;19;13;5;61;D;Convencional Lona Clara;Meio;Campânula
+631;178;Fornalha;1;1,44;0;0;7;0;7;F;Convencional Lona Clara;Meio;Forno
+632;199;Fornalha;1,73;1,83;0;0;13;0;13;F;Convencional Lona Clara;Meio;Forno
+633;618;Fornalha;3,2;0,8;35;19;0;5;59;D;Convencional Lona Clara;Meio;Forno
+634;250;Campânula;3,55;0,49;24;25;20;15;84;C;Convencional Lona Clara;Meio;Forno
+635;243;Campânula;3,05;0;12;19;0;0;31;E;Climatizado Dark;Meio;Forno
+636;356;Fornalha;1,88;0;12;0;0;0;12;F;Indefinido;Indefinido;Indefinido
+637;350;Fornalha;1,7;0;12;0;0;0;12;F;Indefinido;Indefinido;Indefinido
+638;182;Campânula;2,93;2,68;12;13;7;0;32;E;Indefinido;Indefinido;Indefinido
+639;348;Campânula;3,15;1,47;35;19;20;0;74;C;Climatizado Dark;Meio;Forno
+640;204;Fornalha;2,08;0;0;7;20;0;27;F;Climatizado Dark;Meio;Forno
+641;196;Fornalha;2,56;2,41;0;13;7;0;20;F;Convencional Lona Clara;Meio;Campânula
+642;173;Campânula;2,98;0,9;12;13;20;5;50;D;Climatizado Dark;Meio;Campânula
+643;390;Fornalha;2,46;0;12;7;13;0;32;E;Climatizado Dark;Meio;Campânula
+644;527;Fornalha;2,56;0,87;24;13;20;5;62;D;Climatizado Dark;Meio;Campânula
+645;1072;Fornalha;2,21;1,44;35;7;13;0;55;D;Climatizado Dark;Meio;Forno
+646;432;Campânula;4,05;0,99;35;25;13;5;78;C;Indefinido;Indefinido;Indefinido
+647;432;Campânula;4;0,93;35;25;13;5;78;C;Convencional Lona Clara;Meio;Forno
+648;432;Campânula;3,78;0,93;35;25;13;5;78;C;Convencional Lona Clara;Meio;Campânula
+649;666;Fornalha;2,8;2,57;35;13;0;0;48;E;Convencional Lona Clara;Meio;Forno
+650;316;Campânula;3,05;1,73;24;19;13;0;56;D;Convencional Lona Clara;Meio;Forno
+651;526;Fornalha;3,23;0;24;19;13;0;56;D;Convencional Lona Clara;Meio;Forno
+652;237;Fornalha;2,55;0;0;13;13;0;26;F;Climatizado Dark;Meio;Campânula
+653;666;Fornalha;3,21;1,23;35;19;7;0;61;D;Climatizado Lona Clara;Frente;Turbo Aquecedor
+654;348;Campânula;2,28;1,07;35;7;13;0;55;D;Climatizado Lona Clara;Frente;Turbo Aquecedor
+655;520;Campânula;2;1,94;35;7;7;0;49;E;Climatizado Dark;Meio;Campânula
+657;338;Campânula;2,11;2,08;35;7;20;0;62;D;Convencional Lona Clara;Meio;Campânula
+658;624;Fornalha;3,25;1,2;35;19;7;0;61;D;Convencional Lona Clara;Meio;Campânula
+659;320;Campânula;3;1,5;24;19;7;0;50;D;Convencional Lona Clara;Meio;Forno
+660;340;Campânula;3,2;1,38;35;19;7;0;61;D;Indefinido;Indefinido;Indefinido
+661;337;Campânula;3,88;0,84;35;25;20;5;85;B;Climatizado Dark;Meio;Campânula
+662;386;Campânula;3,98;0;35;25;20;20;100;B;Climatizado Dark;Meio;Forno
+663;746;Fornalha;3,1;0,71;35;19;20;10;84;C;Climatizado Dark;Meio;Forno
+664;608;Fornalha;3,65;0,86;24;25;20;5;74;C;Convencional Dark;Frente;Forno
+665;368;Campânula;3,03;1,01;35;19;20;0;74;C;Convencional Dark;Meio;Forno
+666;368;Campânula;2,88;0,82;35;13;13;5;66;D;Convencional Dark;Meio;Forno
+667;280;Campânula;2,73;0;24;13;7;0;44;E;Climatizado Lona Clara;Frente;Turbo Aquecedor
+668;360;Fornalha;1,98;0;12;0;13;0;25;F;Climatizado Lona Clara;Frente;Forno
+669;836;Fornalha;2,7;1,71;35;13;7;0;55;D;Climatizado Dark;Meio;Campânula
+670;339;Campânula;3,1;1,39;35;19;20;0;74;C;Climatizado Dark;Meio;Campânula
+671;404;Campânula;2,4;2,68;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+672;404;Campânula;2,38;2,93;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+673;506;Fornalha;2,6;1,6;24;13;13;0;50;D;Indefinido;Indefinido;Indefinido
+674;612;Fornalha;2,95;1,34;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+676;230;Fornalha;1,95;2,63;0;0;13;0;13;F;Convencional Lona Clara;Meio;Forno
+677;301;Campânula;2,85;0;24;13;0;0;37;E;Climatizado Lona Clara;Frente;Turbo Aquecedor
+678;594;Fornalha;3,01;1,37;24;19;13;0;56;D;Climatizado Dark;Meio;Forno
+679;273;Campânula;2,98;0;24;13;13;0;50;D;Convencional Lona Clara;Fundo;Forno
+680;264;Campânula;3,05;1,15;24;19;20;0;63;D;Convencional Lona Clara;Meio;Campânula
+681;350;Fornalha;2,28;0;12;7;0;0;19;F;Convencional Lona Clara;Meio;Campânula
+682;193;Campânula;2,88;1,99;12;13;0;0;25;F;Convencional Lona Clara;Meio;Forno
+684;272;Campânula;2,68;1,06;24;13;20;0;57;D;Convencional Lona Clara;Meio;Forno
+685;358;Campânula;2,41;1,52;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+686;253;Campânula;3,1;0,76;24;19;13;10;66;D;Climatizado Dark;Meio;Campânula
+687;977;Fornalha;2,93;1,48;35;13;7;0;55;D;Climatizado Dark;Meio;Campânula
+688;260;Campânula;2,65;3,83;24;13;7;0;44;E;Climatizado Lona Clara;Frente;Turbo Aquecedor
+689;388;Fornalha;2,68;2,13;12;13;7;0;32;E;Climatizado Lona Clara;Frente;Turbo Aquecedor
+690;388;Fornalha;2,63;2,61;12;13;7;0;32;E;Climatizado Lona Clara;Frente;Turbo Aquecedor
+691;227;Campânula;2,95;1,6;12;13;7;0;32;E;Climatizado Dark;Meio;Campânula
+692;280;Campânula;3;1,5;24;19;20;0;63;D;Convencional Lona Clara;Meio;Forno
+693;210;Campânula;3,13;0,82;12;19;13;5;49;E;Convencional Lona Clara;Meio;Forno
+694;395;Campânula;3,23;1,44;35;19;0;0;54;D;Convencional Lona Clara;Meio;Forno
+695;730;Fornalha;2;1,6;35;7;7;0;49;E;Convencional Lona Clara;Meio;Forno
+696;680;Fornalha;1,81;1,6;35;0;7;0;42;E;Climatizado Dark;Meio;Campânula
+697;660;Fornalha;2,15;1,7;35;7;7;0;49;E;Climatizado Dark;Meio;Campânula
+698;660;Fornalha;1,6;1,8;35;0;7;0;42;E;Convencional Lona Clara;Meio;Forno
+699;630;Fornalha;2,71;0,88;35;13;13;5;66;D;Indefinido;Indefinido;Indefinido
+700;193;Campânula;2,88;0,99;12;13;20;5;50;D;Climatizado Dark;Meio;Forno
+703;815;Fornalha;2,68;1,43;35;13;13;0;61;D;Climatizado Dark;Meio;Forno
+704;815;Fornalha;2,68;1,43;35;13;13;0;61;D;Climatizado Dark;Meio;Forno
+705;280;Campânula;2,48;0,69;24;7;20;10;61;D;Convencional Dark;Meio;Campânula
+706;256;Campânula;2,41;1,51;24;13;13;0;50;D;Convencional Dark;Meio;Campânula
+707;256;Campânula;2,81;1,18;24;7;13;0;44;E;Convencional Dark;Meio;Forno
+708;326;Campânula;3,41;0,82;24;19;20;5;68;D;Indefinido;Indefinido;Indefinido
+709;428;Fornalha;4,35;1,65;12;25;20;0;57;D;Climatizado Dark;Meio;Campânula
+710;340;Fornalha;2,21;3,67;0;7;7;0;14;F;Convencional Lona Clara;Meio;Campânula
+711;338;Campânula;2,91;0,7;35;13;13;10;71;C;Convencional Lona Clara;Meio;Forno
+712;453;Fornalha;3,61;3,72;12;25;7;0;44;E;Climatizado Dark;Meio;Forno
+713;360;Fornalha;2,36;0;12;7;0;0;19;F;Climatizado Dark;Meio;Forno
+714;360;Fornalha;2,08;0;12;7;0;0;19;F;Climatizado Dark;Meio;Campânula
+715;302;Fornalha;2,01;0;0;7;7;0;14;F;Convencional Lona Clara;Meio;Forno
+716;303;Campânula;2,88;1,75;24;13;13;0;50;D;Climatizado Dark;Meio;Campânula
+717;335;Campânula;2,95;0,66;35;13;13;10;71;C;Convencional Lona Clara;Meio;Forno
+718;335;Campânula;3,23;0,6;35;19;13;10;77;C;Climatizado Dark;Meio;Campânula
+719;432;Campânula;3,66;0,97;35;25;13;5;78;C;Climatizado Dark;Meio;Campânula
+720;338;Campânula;3,73;0,39;35;25;20;20;100;B;Climatizado Dark;Meio;Campânula
+721;250;Campânula;3,1;0,8;24;19;7;5;55;D;Climatizado Dark;Meio;Campânula
+722;376;Campânula;4,5;0,52;35;25;20;15;95;B;Convencional Lona Clara;Meio;Campânula
+723;1072;Fornalha;3,13;1,51;35;19;20;0;74;C;Convencional Lona Clara;Meio;Forno
+724;334;Fornalha;2,93;1,23;0;13;7;0;20;F;Climatizado Isolado Forro;Meio;Forno
+726;326;Campânula;2,93;0,74;24;13;13;10;60;D;Climatizado Dark;Meio;Campânula
+727;857;Fornalha;2,25;1,74;35;7;13;0;55;D;Convencional Lona Clara;Meio;Forno
+728;857;Fornalha;2,73;0,94;35;13;13;5;66;D;Climatizado Dark;Meio;Forno
+729;342;Campânula;3,25;0,66;35;19;20;10;84;C;Climatizado Dark;Meio;Forno
+730;274;Campânula;3,28;0,44;24;19;20;15;78;C;Climatizado Dark;Meio;Campânula
+731;274;Campânula;3,28;0,59;24;19;20;15;78;C;Climatizado Dark;Meio;Campânula
+732;335;Campânula;3,33;0,6;35;19;13;10;77;C;Convencional Dark;Meio;Forno
+733;292;Fornalha;2,6;1,17;0;13;13;0;26;F;Climatizado Dark;Meio;Forno
+734;243;Campânula;2,76;1,04;12;13;13;0;38;E;Convencional Dark;Meio;Forno
+735;243;Campânula;2,61;0,93;12;13;13;5;43;E;Climatizado Dark;Meio;Forno
+736;243;Campânula;2,58;0,93;12;13;13;5;43;E;Climatizado Dark;Meio;Forno
+737;243;Campânula;2,5;1,04;12;13;13;0;38;E;Climatizado Dark;Meio;Campânula
+739;326;Campânula;3,28;0,83;24;19;20;5;68;D;Climatizado Dark;Frente;Forno
+740;406;Fornalha;2,75;1,77;12;13;7;0;32;E;Climatizado Dark;Meio;Campânula
+741;406;Fornalha;2,53;2,56;12;13;7;0;32;E;Climatizado Dark;Meio;Campânula
+742;335;Campânula;3,2;1,04;35;19;13;0;67;D;Climatizado Dark;Meio;Campânula
+743;981;Fornalha;3,18;0,69;35;19;20;10;84;C;Convencional Lona Clara;Meio;Forno
+744;585;Fornalha;2,61;4,43;24;13;7;0;44;E;Climatizado Dark;Meio;Forno
+745;313;Campânula;3,86;0,56;24;25;20;15;84;C;Convencional Lona Clara;Meio;Forno
+746;313;Campânula;3,85;0,61;24;25;20;10;79;C;Climatizado Dark;Meio;Campânula
+747;564;Fornalha;2,28;4,93;24;7;7;0;38;E;Climatizado Dark;Meio;Forno
+749;599;Fornalha;2,68;4,45;24;13;7;0;44;E;Climatizado Dark;Meio;Forno
+750;182;Campânula;2,88;1,45;12;13;20;0;45;E;Climatizado Dark;Meio;Campânula
+751;182;Campânula;2,8;1,33;12;13;20;0;45;E;Climatizado Dark;Meio;Forno
+752;182;Campânula;2,83;1,45;12;13;20;0;45;E;Climatizado Dark;Meio;Forno
+753;335;Campânula;2,91;0,81;35;13;13;5;66;D;Climatizado Dark;Meio;Campânula
+754;335;Campânula;3;0,83;35;19;13;5;72;C;Climatizado Dark;Meio;Campânula
+755;335;Campânula;3,21;0,82;35;19;13;5;72;C;Climatizado Dark;Meio;Campânula
+756;187;Campânula;3;1,09;12;19;20;0;51;D;Convencional Lona Clara;Frente;Forno
+757;451;Fornalha;4,18;3,56;12;25;7;0;44;E;Climatizado Dark;Meio;Forno
+760;860;Fornalha;2,71;0,29;35;13;7;20;75;C;Climatizado Dark;Meio;Forno
+761;336;Campânula;2,13;0;35;7;7;0;49;E;Indefinido;Indefinido;Indefinido
+762;342;Campânula;2,13;0;35;7;7;0;49;E;Convencional Lona Clara;Meio;Forno
+763;578;Fornalha;2,91;1,24;24;13;13;0;50;D;Convencional Lona Clara;Meio;Forno
+764;313;Campânula;2,65;1,44;24;13;13;0;50;D;Climatizado Dark;Meio;Campânula
+765;624;Fornalha;3,13;1,12;35;19;7;0;61;D;Climatizado Dark;Meio;Campânula
+766;274;Campânula;3,38;0,59;24;19;20;15;78;C;Climatizado Dark;Meio;Forno
+771;213;Campânula;2,76;1,98;24;13;13;0;50;D;Climatizado Dark;Meio;Forno
+772;857;Fornalha;2,41;1,49;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+773;857;Fornalha;2,66;2,16;35;13;13;0;61;D;Climatizado Dark;Meio;Campânula
+774;320;Campânula;3,18;0,75;24;19;7;10;60;D;Climatizado Dark;Meio;Campânula
+775;253;Campânula;3,68;1,2;24;25;7;0;56;D;Climatizado Dark;Frente;Campânula
+776;520;Fornalha;3;3,24;24;19;13;0;56;D;Convencional Lona Clara;Meio;Forno
+777;330;Fornalha;3,05;1,7;0;19;13;0;32;E;Climatizado Dark;Meio;Campânula
+778;243;Campânula;2,58;0,98;12;13;13;5;43;E;Climatizado Dark;Meio;Campânula
+779;310;Campânula;2,63;1,8;24;13;20;0;57;D;Climatizado Dark;Meio;Campânula
+780;658;Fornalha;3;0,85;35;19;0;5;59;D;Climatizado Dark;Meio;Campânula
+781;490;Fornalha;3,03;1,14;24;19;13;0;56;D;Climatizado Dark;Meio;Campânula
+782;519;Fornalha;3,02;1,75;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+783;298;Campânula;2,4;1,85;24;7;20;0;51;D;Climatizado Dark;Meio;Campânula
+784;967;Fornalha;2,88;0,55;35;13;7;15;70;C;Climatizado Dark;Meio;Campânula
+785;440;Campânula;3,53;0,56;35;25;20;15;95;A;Climatizado Dark;Meio;Campânula
+786;645;Fornalha;3,06;1,62;35;19;7;0;61;D;Climatizado Dark;Meio;Campânula
+787;280;Campânula;3,1;0,94;24;19;20;5;68;D;Climatizado Dark;Meio;Campânula
+788;280;Campânula;3,2;0,99;24;19;7;5;55;D;Convencional Lona Clara;Meio;Forno
+789;280;Campânula;3,2;0,9;24;19;20;5;68;D;Convencional Lona Clara;Frente;Forno
+790;280;Campânula;3,15;0,77;24;19;20;10;73;C;Climatizado Lona Clara;Meio;Campânula
+791;690;Campânula;3,36;0,88;35;19;13;5;72;C;Climatizado Dark;Meio;Turbo Aquecedor
+792;360;Fornalha;2,78;0;12;13;0;0;25;F;Climatizado Dark;Meio;Forno
+793;620;Fornalha;4,05;0,88;35;25;20;5;85;B;Climatizado Dark;Meio;Forno
+794;620;Fornalha;3,06;0,7;35;19;20;10;84;C;Climatizado Dark;Meio;Campânula
+795;159;Campânula;2,65;1,02;0;13;13;0;26;F;Climatizado Dark;Meio;Campânula
+798;330;Campânula;2,85;1,85;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+799;330;Campânula;2,5;2,32;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+802;201;Campânula;2,26;1,19;12;7;13;0;32;E;Climatizado Dark;Meio;Campânula
+803;201;Campânula;2,18;1,27;12;7;13;0;32;E;Climatizado Dark;Meio;Campânula
+804;453;Fornalha;3,2;1,51;12;19;20;0;51;D;Climatizado Dark;Meio;Campânula
+805;1188;Fornalha;2,53;2,09;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+806;1188;Fornalha;2,83;1,36;35;13;20;0;68;D;Climatizado Isolado Forro;Meio;Campânula
+807;350;Campânula;3,16;0,93;35;19;20;5;79;C;Climatizado Isolado Forro;Meio;Campânula
+808;630;Fornalha;3,05;0,82;35;19;13;5;72;C;Indefinido;Indefinido;Indefinido
+809;288;Campânula;2,33;1,01;24;7;20;0;51;D;Climatizado Isolado Forro;Frente;Campânula
+810;261;Campânula;2,9;0,59;24;13;20;15;72;C;Climatizado Dark;Meio;Campânula
+811;746;Fornalha;3,78;0,77;35;25;20;10;90;A;Climatizado Dark;Frente;Campânula
+812;242;Campânula;2,95;0,54;12;13;13;15;53;D;Climatizado Dark;Meio;Campânula
+813;242;Campânula;3,11;0,57;12;19;13;15;59;D;Climatizado Dark;Meio;Forno
+814;298;Campânula;2,78;1,58;24;13;20;0;57;D;Climatizado Dark;Meio;Campânula
+815;450;Fornalha;2,18;1,61;12;7;7;0;26;F;Climatizado Dark;Meio;Campânula
+816;630;Fornalha;3,05;1,39;35;19;13;0;67;D;Climatizado Dark;Meio;Forno
+817;465;Fornalha;2,25;3,2;24;7;7;0;38;E;Climatizado Dark;Meio;Forno
+818;218;Campânula;2,88;0,92;12;13;13;5;43;E;Climatizado Dark;Meio;Forno
+819;351;Campânula;3,88;0,55;35;25;20;15;95;A;Climatizado Dark;Meio;Forno
+820;351;Campânula;3,3;0,52;35;19;20;15;89;B;Climatizado Lona Clara;Meio;Forno
+821;587;Fornalha;3,48;0,63;24;19;20;10;73;C;Climatizado Dark;Meio;Campânula
+822;159;Campânula;2,5;1,11;0;13;13;0;26;F;Climatizado Dark;Meio;Campânula
+823;413;Fornalha;2,95;0;12;13;20;0;45;E;Climatizado Dark;Meio;Campânula
+824;382;Fornalha;2,8;0;12;13;20;0;45;E;Climatizado Dark;Meio;Campânula
+825;475;Fornalha;2,21;0,83;24;19;20;15;78;C;Climatizado Dark;Meio;Forno
+826;313;Campânula;3,26;0,92;24;19;13;5;61;D;Climatizado Dark;Meio;Forno
+827;313;Campânula;3,75;0,68;24;25;13;10;72;C;Climatizado Dark;Meio;Campânula
+828;532;Fornalha;1,96;0,45;24;0;7;15;46;E;Climatizado Dark;Meio;Campânula
+829;724;Fornalha;3,43;0,72;35;19;20;10;84;C;Climatizado Dark;Meio;Forno
+830;202;Campânula;3,55;0,43;12;25;20;15;72;C;Climatizado Dark;Frente;Campânula
+831;373;Fornalha;3,83;0,55;12;25;20;15;72;C;Climatizado Dark;Meio;Forno
+832;373;Fornalha;3,75;0,57;12;25;20;15;72;C;Climatizado Dark;Meio;Campânula
+833;444;Fornalha;2,8;0;12;13;13;0;38;E;Climatizado Dark;Meio;Campânula
+834;630;Fornalha;2,88;1,52;35;13;7;0;55;D;Climatizado Lona Clara;Meio;Forno
+836;299;Campânula;2,7;1,11;24;13;20;0;57;D;Climatizado Dark;Meio;Campânula
+837;299;Campânula;2,8;0,89;24;13;20;5;62;D;Climatizado Dark;Meio;Campânula
+838;391;Fornalha;2,8;2,31;12;13;20;0;45;E;Climatizado Dark;Meio;Campânula
+839;213;Campânula;2,9;1,26;24;13;13;0;50;D;Climatizado Dark;Frente;Forno
+840;231;Campânula;3,43;0,69;35;19;13;0;67;D;Climatizado Dark;Frente;Campânula
+841;255;Campânula;3,11;2,22;35;19;13;0;67;D;Climatizado Dark;Meio;Campânula
+842;298;Campânula;3,25;1,81;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+844;261;Campânula;3,11;0;24;19;20;20;83;C;Climatizado Dark;Meio;Campânula
+845;261;Campânula;3,1;0;24;19;20;20;83;C;Climatizado Dark;Meio;Campânula
+846;261;Campânula;3,1;0;24;19;20;20;83;C;Climatizado Dark;Meio;Campânula
+847;1074;Fornalha;3,96;0,65;35;25;20;10;90;B;Climatizado Dark;Meio;Campânula
+848;633;Fornalha;2,95;1,21;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+849;340;Campânula;3,67;0,65;35;25;20;10;90;B;Climatizado Dark;Meio;Campânula
+850;354;Campânula;3,01;0,91;35;19;20;5;79;C;Climatizado Dark;Meio;Campânula
+851;317;Campânula;2,81;0,91;24;13;13;5;55;D;Climatizado Dark;Meio;Campânula
+852;317;Campânula;2,86;0,91;24;13;13;5;55;D;Climatizado Dark;Meio;Campânula
+853;336;Campânula;2,66;0,81;35;13;13;5;66;D;Climatizado Dark;Meio;Campânula
+854;336;Campânula;2,85;0,91;35;13;13;5;66;D;Climatizado Dark;Meio;Campânula
+855;336;Campânula;2,93;0,91;35;13;20;5;73;C;Climatizado Dark;Meio;Campânula
+856;261;Campânula;2,58;1,15;24;13;13;0;50;D;Climatizado Dark;Meio;Campânula
+857;261;Campânula;2,61;1,15;24;13;13;0;50;D;Climatizado Dark;Meio;Campânula
+858;261;Campânula;3,9;0,66;24;25;20;10;79;C;Climatizado Dark;Meio;Campânula
+859;261;Campânula;3,85;0,57;24;25;20;15;84;C;Climatizado Dark;Meio;Forno
+860;355;Campânula;4,36;0,74;35;25;20;10;90;B;Climatizado Dark;Meio;Campânula
+861;746;Fornalha;3,33;0,81;35;19;7;5;66;D;Climatizado Dark;Meio;Forno
+862;285;Campânula;3;1;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+863;345;Campânula;3,15;1,25;35;19;20;0;74;C;Climatizado Dark;Meio;Campânula
+866;354;Campânula;2,51;0,92;35;13;13;5;66;D;Climatizado Dark;Meio;Campânula
+867;106;Campânula;2,5;1,03;0;13;13;0;26;F;Climatizado Dark;Meio;Campânula
+868;620;Fornalha;4,05;0,64;35;25;20;10;90;A;Climatizado Dark;Meio;Campânula
+869;312;Campânula;4;0,44;24;25;20;15;84;C;Climatizado Dark;Meio;Campânula
+870;355;Campânula;3,8;0,44;35;25;20;15;95;B;Climatizado Dark;Meio;Campânula
+871;355;Campânula;3,78;0,72;35;25;20;10;90;B;Climatizado Dark;Meio;Campânula
+872;218;Campânula;2,71;1,29;12;13;13;0;38;E;Climatizado Dark;Meio;Campânula
+873;320;Campânula;2,35;0;24;7;13;0;44;E;Climatizado Dark;Meio;Campânula
+874;261;Campânula;2,85;1,06;24;13;20;0;57;D;Climatizado Dark;Meio;Campânula
+875;261;Campânula;2,7;0,99;24;13;20;5;62;D;Climatizado Dark;Meio;Campânula
+876;334;Campânula;2,65;1,26;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+877;355;Campânula;3,03;0,48;35;19;20;15;89;A;Climatizado Dark;Frente;Forno
+878;261;Campânula;3;0,65;24;19;20;10;73;C;Climatizado Dark;Meio;Campânula
+879;261;Campânula;2,9;0,5;24;13;13;15;65;D;Climatizado Dark;Frente;Campânula
+880;337;Campânula;3,86;0,49;35;25;20;15;95;A;Climatizado Isolado Forro;Frente;Campânula
+881;337;Campânula;3,65;0,6;35;25;20;10;90;A;Climatizado Isolado Forro;Meio;Campânula
+882;261;Campânula;3;0,59;24;19;13;15;71;C;Climatizado Dark;Meio;Campânula
+883;290;Campânula;3,01;0,65;24;19;13;10;66;D;Climatizado Dark;Meio;Campânula
+884;292;Campânula;3;0,59;24;19;13;15;71;C;Climatizado Dark;Meio;Campânula
+887;587;Fornalha;3,26;1,06;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+888;380;Campânula;3,11;0,65;35;19;20;10;84;C;Climatizado Dark;Meio;Campânula
+889;380;Campânula;3,11;0,65;35;19;13;10;77;C;Climatizado Dark;Meio;Forno
+890;366;Campânula;2,4;2,58;35;7;20;0;62;D;Climatizado Dark;Meio;Forno
+891;259;Campânula;2,85;0,82;24;13;13;5;55;D;Climatizado Dark;Meio;Forno
+892;600;Fornalha;2,78;1,15;24;13;13;0;50;D;Climatizado Dark;Meio;Campânula
+893;600;Fornalha;3,01;0,98;24;19;13;5;61;D;Climatizado Dark;Meio;Campânula
+894;620;Fornalha;3,2;0,9;35;19;13;5;72;C;Climatizado Dark;Meio;Campânula
+895;284;Campânula;3,4;1,81;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+896;284;Campânula;3,5;1,1;24;25;20;0;69;D;Climatizado Dark;Meio;Campânula
+897;284;Campânula;3,3;1,71;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+898;284;Campânula;3,3;1,81;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+899;632;Fornalha;3,1;1,86;35;19;20;0;74;C;Climatizado Dark;Meio;Campânula
+900;632;Fornalha;3,48;2,93;35;19;13;0;67;D;Climatizado Dark;Meio;Campânula
+901;355;Campânula;2,23;1,11;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+902;355;Campânula;2,35;1,03;35;7;13;0;55;D;Climatizado Dark;Meio;Campânula
+903;284;Campânula;3,28;0,72;24;19;20;10;73;C;Climatizado Dark;Meio;Campânula
+904;355;Campânula;3,66;0,29;35;25;20;20;100;B;Climatizado Dark;Meio;Campânula
+905;488;Fornalha;2,18;1,65;24;7;20;0;51;D;Climatizado Dark;Meio;Campânula
+906;298;Campânula;3,25;1,07;24;19;13;0;56;D;Indefinido;Indefinido;Indefinido
+907;268;Campânula;2,81;0,92;24;13;13;5;55;D;Climatizado Dark;Meio;Campânula
+908;623;Fornalha;3,51;0,41;35;25;13;15;88;B;Climatizado Dark;Meio;Campânula
+909;612;Fornalha;3,76;0,41;35;25;13;15;88;B;Climatizado Lona Clara;Meio;Forno
+910;245;Campânula;2,5;0;12;13;13;0;38;E;Climatizado Dark;Meio;Campânula
+911;263;Campânula;2,75;0,8;24;13;13;5;55;D;Climatizado Dark;Meio;Campânula
+912;330;Campânula;2,88;0,63;35;13;20;10;78;C;Climatizado Dark;Meio;Campânula
+913;672;Fornalha;3,05;0,54;35;19;20;15;89;B;Climatizado Dark;Meio;Campânula
+914;680;Fornalha;3,05;0,55;35;19;20;15;89;B;Climatizado Dark;Meio;Campânula
+915;376;Campânula;2,95;2,61;35;13;13;0;61;D;Climatizado Isolado Forro;Meio;Forno
+916;376;Campânula;3,13;2,41;35;19;13;0;67;D;Climatizado Dark;Meio;Campânula
+917;376;Campânula;3,06;2,09;35;19;13;0;67;D;Climatizado Dark;Meio;Campânula
+918;248;Campânula;2,56;0,69;12;13;13;10;48;E;Climatizado Dark;Meio;Campânula
+919;248;Campânula;2,78;0,76;12;13;13;10;48;E;Climatizado Dark;Meio;Campânula
+920;248;Campânula;3,23;0,54;12;19;20;15;66;D;Climatizado Dark;Meio;Campânula
+921;334;Campânula;2,8;0,78;35;13;20;10;78;C;Climatizado Dark;Meio;Campânula
+922;334;Campânula;2,83;0,9;35;13;20;5;73;C;Climatizado Dark;Meio;Campânula
+923;334;Campânula;2,5;0,86;35;13;20;5;73;C;Climatizado Dark;Frente;Campânula
+924;240;Campânula;2,6;0,91;12;13;13;5;43;E;Climatizado Dark;Frente;Campânula
+925;240;Campânula;2,41;0,91;12;7;13;5;37;E;Climatizado Dark;Frente;Campânula
+926;240;Campânula;3,51;1,3;12;25;20;0;57;D;Climatizado Dark;Meio;Campânula
+927;249;Campânula;3,26;0,71;12;19;20;10;61;D;Climatizado Dark;Meio;Campânula
+928;284;Campânula;3,26;1,92;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+929;284;Campânula;3,48;1,93;24;19;20;0;63;D;Climatizado Dark;Meio;Campânula
+930;284;Campânula;3,56;2,08;24;25;20;0;69;D;Climatizado Dark;Meio;Campânula
+931;266;Campânula;3,6;1,04;24;25;20;0;69;D;Climatizado Dark;Frente;Turbo Aquecedor
+932;178;Campânula;3,6;1,36;12;25;20;0;57;D;Climatizado Dark;Meio;Campânula
+933;630;Fornalha;3,4;2,08;35;19;20;0;74;C;Climatizado Dark;Meio;Campânula
+934;261;Campânula;3,13;0,65;24;19;20;10;73;C;Climatizado Dark;Meio;Campânula
+935;465;Fornalha;2;0,76;24;7;20;10;61;D;Climatizado Dark;Meio;Campânula
+936;261;Campânula;3,4;0,79;24;19;20;10;73;C;Climatizado Dark;Meio;Campânula
+937;261;Campânula;3,41;0,79;24;19;20;10;73;C;Climatizado Dark;Meio;Campânula
+938;336;Campânula;3,96;0,59;35;25;20;15;95;B;Climatizado Dark;Meio;Campânula
+939;336;Campânula;3,98;0,59;35;25;20;15;95;B;Climatizado Dark;Meio;Campânula
+940;261;Campânula;3,16;0,82;24;19;20;5;68;D;Climatizado Dark;Meio;Campânula
+941;261;Campânula;3,31;0,82;24;19;20;5;68;D;Climatizado Dark;Meio;Campânula
+942;261;Campânula;3,41;0,93;24;19;20;5;68;D;Climatizado Dark;Frente;Campânula
+943;333;Campânula;3,33;0,74;35;19;13;10;77;C;Climatizado Dark;Meio;Forno
+944;250;Campânula;2,6;0,85;24;13;20;5;62;D;Climatizado Dark;Frente;Campânula
+945;350;Campânula;3,13;0,92;35;13;20;0;68;D;Climatizado Dark;Meio;Campânula
+946;355;Campânula;3,21;1,71;35;25;20;0;80;C;Indefinido;Indefinido;Indefinido
+947;355;Campânula;3,53;1,21;35;19;20;0;74;C;Climatizado Dark;Meio;Campânula
+948;428;Campânula;3,08;0,57;35;19;20;15;89;B;Climatizado Isolado Forro;Meio;Campânula
+949;255;Campânula;3,05;0,89;24;19;20;5;68;D;Climatizado Dark;Meio;Campânula
+950;255;Campânula;3,25;0,7;24;19;20;10;73;C;Climatizado Dark;Meio;Forno
+951;465;Fornalha;3;3,25;24;19;13;0;56;D;Climatizado Dark;Meio;Campânula
+952;266;Campânula;2,6;0,43;24;13;13;15;65;D;Climatizado Dark;Meio;Forno
+953;233;Campânula;2,53;0,53;12;13;13;15;53;D;Climatizado Isolado Forro e Lateral;Meio;Campânula
+954;233;Campânula;2,3;0,53;12;7;13;15;47;E;Indefinido;Indefinido;Indefinido
+955;233;Campânula;2,35;0,61;12;7;13;10;42;E;Indefinido;Indefinido;Indefinido
+956;313;Campânula;2,12;1,62;24;7;13;0;44;E;Climatizado Isolado Forro e Lateral;Meio;Campânula
+957;270;Campânula;3,7;0,96;24;25;20;5;74;C;Climatizado Dark;Meio;Forno
+958;270;Campânula;3,7;0,91;24;25;20;5;74;C;Climatizado Dark;Meio;Campânula
+959;261;Campânula;1,91;1,39;24;0;13;0;37;E;Climatizado Dark;Meio;Campânula
+960;261;Campânula;1,83;1,19;24;0;13;0;37;E;Climatizado Dark;Meio;Campânula
+961;226;Campânula;2,53;1,38;12;13;20;0;45;E;Climatizado Dark;Meio;Campânula
+962;226;Campânula;2,58;1,71;12;13;20;0;45;E;Climatizado Dark;Meio;Turbo Aquecedor
+963;766;Fornalha;3,45;1,29;35;19;20;0;74;C;Climatizado Dark;Meio;Turbo Aquecedor
+964;351;Fornalha;2,91;0,9;12;13;20;5;50;D;Climatizado Dark;Meio;Campânula
+965;351;Fornalha;3,13;0;12;19;20;0;51;D;Climatizado Dark;Meio;Campânula
+967;336;Campânula;3,7;0,58;35;25;20;10;90;B;Climatizado Isolado Forro;Meio;Campânula
+968;355;Campânula;3,56;0,7;35;25;20;10;90;B;Climatizado Isolado Forro;Meio;Campânula
+969;336;Campânula;3,08;0,66;35;25;20;5;85;B;Climatizado Isolado Forro;Meio;Campânula
+971;336;Campânula;3,01;0,58;35;19;20;5;79;C;Climatizado Isolado Forro;Meio;Forno
+972;336;Campânula;3,18;1,9;35;19;20;0;74;C;Climatizado Dark;Frente;Campânula
+973;333;Campânula;2,85;0,66;35;13;20;10;78;C;Climatizado Dark;Frente;Campânula
+974;235;Campânula;3;1,17;12;19;13;0;44;E;Climatizado Dark;Frente;Forno
+975;228;Campânula;2,88;1,17;12;13;13;0;38;E;Climatizado Dark;Frente;Campânula
+976;273;Campânula;2,53;0;24;13;13;0;50;D;Climatizado Isolado Forro e Lateral;Meio;Forno
+977;220;Campânula;2,98;0;12;13;13;0;38;E;Climatizado Dark;Frente;Campânula
+978;262;Campânula;2,95;0,61;24;13;13;10;60;D;Climatizado Dark;Meio;Campânula
+979;320;Campânula;2,85;0,83;24;13;13;5;55;D;Climatizado Dark;Meio;Campânula
+980;175;Campânula;3,1;0,5;12;19;20;15;66;D;Climatizado Dark;Meio;Campânula
+981;224;Campânula;3,1;1,38;12;19;20;0;51;D;Climatizado Dark;Meio;Campânula
+982;224;Campânula;3,1;1,71;12;19;20;0;51;D;Climatizado Dark;Meio;Campânula
+984;266;Campânula;3,65;0,68;24;25;20;10;79;C;Climatizado Dark;Meio;Campânula
+985;266;Campânula;3,45;0,76;24;19;20;10;73;C;Climatizado Lona Clara;Meio;Campânula
+986;266;Campânula;3,25;0,76;24;19;13;10;66;D;Climatizado Dark;Meio;Campânula
+987;300;Campânula;3,48;0,85;24;19;20;5;68;D;Climatizado Dark;Frente;Campânula
+988;469;Campânula;3,36;0,98;35;19;13;5;72;C;Climatizado Dark;Meio;Campânula
+989;469;Campânula;3,1;0,89;35;19;13;5;72;C;Climatizado Isolado Forro;Meio;Campânula
+990;233;Campânula;2,31;1,04;12;7;13;0;32;E;Climatizado Dark;Meio;Campânula
+991;233;Campânula;2,26;1,04;12;7;13;0;32;E;Climatizado Dark;Meio;Campânula
+992;233;Campânula;2,3;0,94;12;7;13;5;37;E;Climatizado Dark;Meio;Campânula
+993;288;Campânula;3,01;0;24;19;13;0;56;D;Climatizado Dark;Frente;Campânula
+994;213;Campânula;3,03;0;12;19;20;0;51;D;Climatizado Dark;Frente;Campânula
+995;192;Campânula;2,64;1,13;12;13;20;0;45;E;Climatizado Dark;Frente;Campânula
+996;199;Campânula;2,36;0,89;12;7;20;5;44;E;Convencional Lona Clara;Meio;Forno
+997;391;Campânula;2,96;0,64;35;13;13;10;71;C;Convencional Lona Clara;Meio;Forno
+998;391;Campânula;2,88;0,68;35;13;13;10;71;C;Convencional Lona Clara;Meio;Forno
+999;557;Campânula;2,9;0,61;35;13;13;10;71;C;Climatizado Dark;Frente;Campânula
+1000;233;Campânula;2,91;0,61;12;13;20;10;55;D;Climatizado Dark;Meio;Campânula
+1001;333;Campânula;3,5;1,13;35;25;20;0;80;C;Climatizado Dark;Frente;Campânula
+1002;333;Campânula;3,46;1,7;35;19;20;0;74;C;Climatizado Dark;Frente;Campânula
+1003;200;Campânula;3,26;1,23;24;13;20;0;57;D;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1004;200;Campânula;2,98;1,29;24;13;20;0;57;D;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1005;568;Fornalha;2,9;0,58;24;13;20;15;72;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1006;382;Campânula;3,3;0,96;35;19;20;5;79;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1007;206;Campânula;3,85;0,74;12;25;20;10;67;D;Climatizado Dark;Frente;Campânula
+1008;252;Campânula;3,3;0,98;24;19;20;5;68;D;Climatizado Dark;Frente;Campânula
+1009;252;Campânula;2,95;0,98;24;13;20;5;62;D;Climatizado Dark;Meio;Campânula
+1010;245;Campânula;2,85;0,8;12;13;13;5;43;E;Climatizado Dark;Frente;Campânula
+1011;315;Campânula;3,61;0,69;24;25;20;10;79;C;Climatizado Dark;Frente;Campânula
+1012;510;Campânula;3,41;0,65;35;19;20;10;84;C;Climatizado Dark;Meio;Campânula
+1013;510;Campânula;3,21;0,62;35;19;20;10;84;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1014;212;Campânula;2,56;0,89;12;13;20;5;50;D;Climatizado Isolado Forro;Frente;Forno
+1015;199;Campânula;2,4;1,04;12;7;20;0;39;E;Climatizado Dark;Meio;Campânula
+1016;245;Campânula;3,2;0,61;12;19;20;10;61;D;Climatizado Dark;Meio;Campânula
+1017;517;Fornalha;3,4;2,02;24;19;20;0;63;D;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1018;233;Campânula;2,85;0,61;12;13;20;10;55;D;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1019;276;Campânula;3,36;0,52;24;19;20;15;78;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1020;450;Fornalha;2,8;1,34;12;13;20;0;45;E;Climatizado Dark;Frente;Campânula
+1021;188;Campânula;3,27;0,88;12;19;20;5;56;D;Climatizado Dark;Frente;Campânula
+1022;330;Campânula;3;0,5;35;19;20;15;89;B;Climatizado Dark;Meio;Campânula
+1023;339;Campânula;3;1,32;35;19;20;0;74;C;Climatizado Dark;Frente;Campânula
+1024;439;Fornalha;2,7;1,13;12;13;13;0;38;E;Climatizado Isolado Forro;Frente;Campânula
+1025;804;Fornalha;3,25;1,15;35;19;20;0;74;C;Climatizado Dark;Frente;Campânula
+1026;330;Campânula;3,55;0,95;35;25;20;5;85;B;Indefinido;Indefinido;Indefinido
+1027;220;Campânula;3,2;0,94;12;19;13;5;49;E;Climatizado Dark;Frente;Campânula
+1028;220;Campânula;3,03;0,94;12;19;13;5;49;E;Climatizado Dark;Frente;Campânula
+1029;220;Campânula;3,31;0,8;12;19;13;5;49;E;Climatizado Dark;Frente;Campânula
+1030;220;Campânula;3,01;0,89;12;19;13;5;49;E;Climatizado Dark;Frente;Campânula
+1031;620;Fornalha;3,4;0,4;35;19;20;15;89;B;Climatizado Dark;Frente;Campânula
+1032;171;Campânula;2,65;0,96;12;13;20;5;50;D;Climatizado Isolado Forro;Frente;Campânula
+1033;171;Campânula;2,83;0,83;12;13;20;5;50;D;Climatizado Dark;Meio;Campânula
+1034;231;Campânula;3,15;2,56;12;19;20;0;51;D;Climatizado Dark;Meio;Campânula
+1035;294;Campânula;3,48;0,82;24;19;13;5;61;D;Climatizado Dark;Meio;Campânula
+1036;324;Campânula;3,55;0,56;24;25;20;15;84;C;Climatizado Dark;Meio;Campânula
+1037;324;Campânula;3,65;0,63;24;25;20;10;79;C;Climatizado Isolado Forro;Frente;Forno
+1038;300;Campânula;4,15;0,61;24;25;20;10;79;C;Climatizado Isolado Forro;Frente;Forno
+1039;276;Campânula;3,33;0,55;24;19;20;15;78;C;Climatizado Dark;Frente;Campânula
+1040;320;Campânula;3,95;0,6;24;25;13;10;72;C;Climatizado Dark;Meio;Forno
+1041;320;Campânula;3,6;0,7;24;25;13;10;72;C;Climatizado Dark;Meio;Forno
+1042;320;Campânula;3,56;0,9;24;25;20;5;74;C;Climatizado Isolado Forro;Meio;Campânula
+1043;320;Campânula;3,6;0,7;24;25;13;10;72;C;Climatizado Isolado Forro e Lateral;Meio;Cubo
+1044;450;Fornalha;2,6;1,4;12;13;13;0;38;E;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1045;400;Fornalha;3,15;1,2;12;19;13;0;44;E;Climatizado Dark;Meio;Campânula
+1046;658;Campânula;3,96;0,46;35;25;20;15;95;B;Climatizado Isolado Forro;Frente;Campânula
+1047;648;Campânula;3,91;0,46;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Forno
+1048;829;Fornalha;3,63;0,56;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Forno
+1049;213;Campânula;3,06;0,51;12;19;20;15;66;D;Climatizado Isolado Forro;Meio;Forno
+1050;459;Fornalha;3,06;1,04;12;19;13;0;44;E;Climatizado Isolado Forro;Meio;Campânula
+1051;388;Campânula;2,8;0,61;35;13;13;10;71;C;Convencional Dark;Meio;Campânula
+1052;388;Campânula;2,71;0,75;35;13;13;10;71;C;Climatizado Dark;Frente;Campânula
+1053;388;Campânula;2,86;1,12;35;13;13;0;61;D;Climatizado Isolado Forro;Frente;Campânula
+1054;388;Campânula;3,23;0,89;35;19;20;5;79;C;Climatizado Isolado Forro;Frente;Campânula
+1055;388;Campânula;3,05;1,12;35;19;20;0;74;C;Climatizado Isolado Forro;Meio;Campânula
+1056;388;Campânula;2,93;0,89;35;13;13;5;66;D;Climatizado Isolado Forro;Meio;Campânula
+1057;136;Campânula;3;0;0;19;13;0;32;E;Climatizado Dark;Meio;Campânula
+1058;136;Campânula;2,5;0,95;0;13;13;5;31;E;Climatizado Dark;Frente;Campânula
+1059;466;Campânula;3,43;0,53;35;19;20;15;89;A;Climatizado Dark;Frente;Campânula
+1060;245;Campânula;2,95;0,64;12;13;13;10;48;E;Climatizado Dark;Frente;Campânula
+1061;333;Campânula;3,4;0,69;35;19;20;10;84;C;Climatizado Dark;Meio;Campânula
+1062;315;Campânula;3,39;0,53;24;19;20;15;78;C;Climatizado Dark;Meio;Campânula
+1063;213;Campânula;3,7;0,8;12;25;20;5;62;D;Climatizado Dark;Frente;Forno
+1064;262;Campânula;3,86;0,53;24;25;13;15;77;C;Climatizado Dark;Frente;Forno
+1065;330;Campânula;3,53;0,68;35;25;20;10;90;B;Climatizado Dark;Frente;Forno
+1066;333;Campânula;3,16;1,12;35;19;20;0;74;C;Climatizado Isolado Forro;Frente;Campânula
+1067;333;Campânula;3,2;1,05;35;19;20;0;74;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1068;202;Campânula;3,61;0,54;12;25;20;15;72;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1069;202;Campânula;3,68;0,54;12;25;20;15;72;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1073;279;Campânula;3,23;0,49;24;19;20;15;78;C;Climatizado Dark;Frente;Campânula
+1074;305;Campânula;3,16;0,61;24;19;20;10;73;C;Climatizado Dark;Frente;Campânula
+1075;360;Campânula;3,63;0,4;35;25;20;15;95;B;Climatizado Dark;Meio;Forno
+1076;360;Campânula;3,93;0,4;35;25;20;15;95;B;Climatizado Dark;Meio;Forno
+1077;229;Campânula;3,35;0,63;12;19;20;10;61;D;Climatizado Isolado Forro;Frente;Campânula
+1078;228;Campânula;3,43;0,63;12;19;20;10;61;D;Climatizado Isolado Forro;Frente;Campânula
+1079;228;Campânula;3,68;0,73;12;25;20;10;67;D;Climatizado Isolado Forro e Lateral;Meio;Campânula
+1080;228;Campânula;3,8;0,49;12;25;20;15;72;C;Climatizado Isolado Forro e Lateral;Meio;Campânula
+1081;301;Campânula;3,51;0,51;24;25;20;15;84;C;Climatizado Isolado Forro;Frente;Campânula
+1082;301;Campânula;3,98;0,54;24;25;20;15;84;C;Climatizado Isolado Forro;Frente;Campânula
+1083;354;Campânula;4;0,56;35;25;13;15;88;B;Climatizado Dark;Meio;Campânula
+1084;252;Campânula;2,96;0,74;24;13;20;10;67;D;Climatizado Dark;Meio;Campânula
+1085;391;Campânula;3,56;0,53;35;25;20;15;95;B;Indefinido;Frente;Campânula
+1086;264;Campânula;3,1;1,13;24;19;13;0;56;D;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1087;333;Campânula;2,78;0,56;35;13;13;10;71;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1088;340;Campânula;3,3;0,5;35;19;20;15;89;B;Climatizado Isolado Forro e Lateral;Meio;Campânula
+1089;338;Campânula;4;0,46;35;25;20;15;95;B;Climatizado Isolado Forro e Lateral;Meio;Campânula
+1090;270;Campânula;3,8;0,58;24;25;20;15;84;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1091;262;Campânula;3,26;0,47;24;19;20;15;78;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1092;336;Campânula;3,2;0,42;35;19;20;15;89;B;Indefinido;Frente;Campânula
+1093;336;Campânula;3,15;0,44;35;19;20;15;89;B;Indefinido;Frente;Campânula
+1096;583;Fornalha;3,78;0,65;24;25;20;10;79;C;Climatizado Isolado Forro;Frente;Campânula
+1097;227;Campânula;4,01;0,4;12;25;20;15;72;C;Climatizado Isolado Forro;Frente;Campânula
+1098;330;Campânula;3,9;0,4;35;25;20;15;95;B;Climatizado Isolado Forro;Frente;Campânula
+1099;366;Campânula;2,65;0,61;35;13;20;10;78;C;Climatizado Isolado Forro;Frente;Campânula
+1100;336;Campânula;2,6;1,19;35;19;20;5;79;C;Climatizado Isolado Forro;Meio;Campânula
+1101;320;Campânula;3;0,88;24;19;20;5;68;D;Indefinido;Frente;Campânula
+1102;266;Campânula;2,99;0,46;24;13;20;15;72;C;Indefinido;Frente;Campânula
+1103;266;Campânula;3,1;0,53;24;19;20;15;78;C;Indefinido;Frente;Campânula
+1104;266;Campânula;3;0,53;24;19;13;15;71;C;Indefinido;Indefinido;Campânula
+1105;266;Campânula;3,13;0,64;24;19;20;10;73;C;Climatizado Isolado Forro;Frente;Campânula
+1106;335;Campânula;4,2;0,5;35;25;20;15;95;B;Climatizado Isolado Forro;Frente;Campânula
+1107;245;Campânula;3,2;0,68;12;19;20;10;61;D;Climatizado;Meio;Indefinido
+1108;245;Campânula;3,25;0,61;12;19;20;10;61;D;Climatizado;Meio;Indefinido
+1109;245;Campânula;3,5;0,46;12;25;20;15;72;C;Climatizado Isolado Forro;Frente;Campânula
+1110;245;Campânula;3,5;0,48;12;25;20;15;72;C;Climatizado Isolado Forro;Frente;Campânula
+1111;434;Campânula;3,98;0,54;35;25;20;15;95;B;Climatizado Isolado Forro;Frente;Campânula
+1112;680;Fornalha;4,01;0,73;35;25;20;10;90;B;Climatizado Isolado Forro;Frente;Campânula
+1113;233;Campânula;3,55;0,55;12;25;20;15;72;C;Climatizado Isolado Forro;Frente;Campânula
+1114;1188;Fornalha;3,58;0,55;35;25;20;15;95;B;Climatizado Isolado Forro;Frente;Campânula
+1115;1188;Fornalha;3,68;0,46;35;25;20;15;95;B;Climatizado Isolado Forro;Frente;Campânula
+1116;330;Campânula;3,5;0,17;35;25;20;20;100;B;Climatizado Isolado Forro;Frente;Campânula
+1117;342;Campânula;4,21;0,35;35;25;20;20;100;B;Indefinido;Frente;Campânula
+1118;333;Campânula;4,43;0,46;35;25;20;15;95;B;Indefinido;Frente;Campânula
+1119;333;Campânula;3,35;0,56;35;19;20;15;89;B;Climatizado Isolado Forro;Meio;Campânula
+1120;333;Campânula;3,58;0,55;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Campânula
+1121;804;Fornalha;3,55;0,61;35;25;20;10;90;A;Climatizado Isolado Forro;Meio;Campânula
+1122;804;Fornalha;3,56;0,53;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Campânula
+1123;804;Fornalha;3,6;0,53;35;25;20;15;95;B;Indefinido;Indefinido;Campânula
+1124;333;Campânula;3,6;0,42;35;25;20;15;95;A;Indefinido;Frente;Campânula
+1125;273;Campânula;3,46;0,7;24;19;20;10;73;C;Indefinido;Frente;Campânula
+1126;333;Campânula;3,4;0,74;35;19;20;10;84;C;Indefinido;Frente;Campânula
+1127;400;Campânula;3,5;0,6;35;25;20;10;90;B;Climatizado Isolado Forro;Frente;Campânula
+1128;400;Campânula;3,05;0,5;35;19;20;15;89;B;Indefinido;Frente;Campânula
+1129;350;Campânula;3,6;0,34;35;25;20;20;100;A;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1130;350;Campânula;3,56;0,32;35;25;20;20;100;B;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1131;280;Campânula;3,43;0,37;24;19;20;20;83;C;Indefinido;Frente;Campânula
+1132;142;Campânula;3,1;0,49;0;19;20;15;54;D;Climatizado Isolado Forro;Frente;Campânula
+1133;330;Campânula;3,71;0,63;35;25;20;10;90;B;Climatizado Isolado Forro;Frente;Campânula
+1134;330;Campânula;3,81;0,57;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Campânula
+1135;333;Campânula;3,66;0,42;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Campânula
+1136;333;Campânula;3,56;0,42;35;25;20;15;95;B;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1137;600;Campânula;3,76;0,76;35;25;13;10;83;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1138;600;Campânula;3,56;0,84;35;25;13;5;78;C;Climatizado Isolado Forro e Lateral;Frente;Campânula
+1139;600;Campânula;3,81;0,8;35;25;13;5;78;C;Climatizado Isolado Forro;Meio;Campânula
+1140;340;Campânula;3,52;0,21;35;25;20;20;100;B;Climatizado Isolado Forro;Meio;Campânula
+1141;333;Campânula;3,3;0,32;35;19;20;20;94;A;Climatizado Isolado Forro;Frente;Campânula
+1142;333;Campânula;3,15;0,29;35;19;20;20;94;A;Indefinido;Indefinido;Campânula
+1143;333;Campânula;2,91;0,39;35;13;20;20;88;A;Indefinido;Indefinido;Campânula
+1144;266;Campânula;3,13;0,56;24;19;20;15;78;C;Indefinido;Indefinido;Campânula
+1145;333;Campânula;3,68;0,55;35;25;20;15;95;A;Indefinido;Indefinido;Campânula
+1146;620;Fornalha;3,34;0,4;35;19;20;15;89;B;Indefinido;Indefinido;Campânula
+1147;333;Campânula;3,28;0,47;35;19;20;15;89;B;Indefinido;Indefinido;Campânula
+1148;345;Campânula;3,95;0,43;35;25;13;15;88;B;Indefinido;Indefinido;Campânula
+1149;480;Fornalha;3,6;0,56;24;25;20;15;84;C;Indefinido;Indefinido;Campânula
+1150;680;Fornalha;3,6;0,5;35;25;20;15;95;B;Indefinido;Indefinido;Campânula
+1151;333;Campânula;3,76;0,43;35;25;20;15;95;A;Indefinido;Indefinido;Campânula
+1152;333;Campânula;3,46;0,43;35;19;20;15;89;A;Indefinido;Indefinido;Campânula
+1153;341;Campânula;3,43;0,27;35;19;20;20;94;B;Climatizado Isolado Forro;Frente;Campânula
+1154;341;Campânula;3,66;0,29;35;25;20;20;100;A;Climatizado Isolado Forro;Frente;Campânula
+1155;333;Campânula;3,6;0,53;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1156;333;Campânula;3,13;0,4;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1157;333;Campânula;3,7;0,61;35;25;20;10;90;B;Climatizado Isolado Forro;Frente;Campânula
+1158;333;Campânula;3,41;0,64;35;19;20;10;84;C;Climatizado Isolado Forro;Frente;Campânula
+1159;333;Campânula;3,45;0,44;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1160;333;Campânula;3,93;0,39;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1161;333;Campânula;3,81;0,39;35;25;20;20;100;A;Climatizado Isolado Forro;Indefinido;Campânula
+1162;341;Campânula;3,65;0,42;35;25;20;15;95;A;Climatizado Isolado Forro;Indefinido;Campânula
+1163;341;Campânula;3,6;0,25;35;25;20;20;100;B;Climatizado Isolado Forro;Meio;Forno
+1164;341;Campânula;3,71;0,42;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Forno
+1165;341;Campânula;3,65;0,42;35;25;20;15;95;B;Climatizado Isolado Forro;Meio;Forno
+1166;333;Campânula;3,18;0,44;35;19;20;15;89;B;Climatizado Isolado Forro;Meio;Forno
+1167;333;Campânula;3,13;0,46;35;19;20;15;89;A;Climatizado Isolado Forro;Frente;Campânula
+1168;476;Campânula;2,93;0,72;35;13;13;10;71;C;Climatizado Isolado Forro;Frente;Campânula
+1169;330;Campânula;3,33;0,29;35;19;20;20;94;B;Climatizado Isolado Forro;Frente;Campânula
+1170;330;Campânula;3,33;0,29;35;19;20;20;94;B;Indefinido;Indefinido;Indefinido
+1171;330;Campânula;3,33;0,29;35;19;20;20;94;B;Indefinido;Indefinido;Indefinido
+1172;330;Campânula;3,33;0,29;35;19;20;20;94;B;Climatizado Isolado Forro;Frente;Campânula
+1173;333;Campânula;3,93;0,61;35;25;20;10;90;B;Indefinido;Indefinido;Indefinido
+1174;300;Campânula;3,58;0,53;24;25;20;15;84;C;Indefinido;Indefinido;Indefinido
+1175;334;Campânula;3,7;0,35;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1176;334;Campânula;3,69;0,37;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1177;333;Campânula;3,71;0,61;35;25;20;10;90;A;Indefinido;Indefinido;Indefinido
+1179;300;Campânula;3,13;0,5;24;19;13;15;71;C;Indefinido;Indefinido;Indefinido
+1180;333;Campânula;3,58;0,43;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1181;612;Fornalha;3,4;0,5;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1182;612;Fornalha;3,3;0,5;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1183;333;Campânula;3,33;0,55;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1184;333;Campânula;3,11;0,55;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1185;333;Campânula;3,2;0,53;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1186;333;Campânula;3,76;0,28;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1187;333;Campânula;3,61;0,43;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1188;349;Campânula;3,8;0;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1189;333;Campânula;3,41;0,58;35;19;20;15;89;A;Indefinido;Indefinido;Indefinido
+1190;341;Campânula;4,03;0,74;35;25;20;10;90;B;Indefinido;Indefinido;Indefinido
+1191;333;Campânula;3,85;0,37;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1192;333;Campânula;3,88;0,39;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1193;341;Campânula;3,65;0,34;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1194;341;Campânula;3,65;0,34;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1195;350;Campânula;3,51;0,46;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1196;350;Campânula;3,5;0,54;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1197;420;Campânula;4,06;0,44;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1198;333;Campânula;3,95;0,55;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1199;333;Campânula;3,5;0,45;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1200;333;Campânula;3,55;0,42;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1201;333;Campânula;3,86;0,35;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1202;350;Campânula;3,7;0,38;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1203;334;Campânula;3,93;0,48;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1204;340;Campânula;3,83;0,37;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1205;333;Campânula;3,46;0,51;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1206;350;Campânula;3,68;0,39;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1207;350;Campânula;3,51;0,37;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1208;341;Campânula;3,73;0,46;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1209;341;Campânula;3,93;0,54;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1210;333;Campânula;3,93;0,37;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1211;333;Campânula;3,85;0,39;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1212;333;Campânula;3,65;0,53;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1213;333;Campânula;3,6;0,44;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1214;333;Campânula;3,7;0,46;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1215;360;Campânula;3,63;0,58;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1216;337;Campânula;3,72;0,53;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1217;337;Campânula;3,63;0,43;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1218;333;Campânula;3,83;0,43;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1219;333;Campânula;4,05;0,8;35;25;20;5;85;B;Indefinido;Indefinido;Indefinido
+1220;333;Campânula;3,26;0,52;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1221;333;Campânula;3,28;0,58;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1222;333;Campânula;3,33;0,43;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1223;333;Campânula;3,3;0,46;35;19;13;15;82;C;Indefinido;Indefinido;Indefinido
+1224;333;Campânula;3,2;0,43;35;19;13;15;82;C;Indefinido;Indefinido;Indefinido
+1225;350;Campânula;3,2;0,5;35;19;20;15;89;A;Indefinido;Indefinido;Indefinido
+1226;333;Campânula;3,4;0,52;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1227;333;Campânula;3,58;0,25;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1228;330;Campânula;3,73;0,22;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1229;330;Campânula;3,8;0,39;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1230;330;Campânula;3,81;0,54;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1231;333;Campânula;3,55;0,54;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1232;333;Campânula;3,36;0,49;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1233;333;Campânula;3,68;0,52;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1234;333;Campânula;3,75;0,49;35;25;20;15;95;A;Indefinido;Indefinido;Indefinido
+1235;333;Campânula;3,35;0,35;35;19;20;20;94;B;Indefinido;Indefinido;Indefinido
+1236;333;Campânula;3,43;0,37;35;19;20;20;94;B;Indefinido;Indefinido;Indefinido
+1237;471;Fornalha;3,36;0,51;24;19;20;15;78;C;Indefinido;Indefinido;Indefinido
+1238;471;Fornalha;3,25;0,46;24;19;20;15;78;C;Indefinido;Indefinido;Indefinido
+1239;471;Fornalha;3,43;0,48;24;19;20;15;78;C;Indefinido;Indefinido;Indefinido
+1240;471;Fornalha;3,63;0,46;24;25;20;15;84;C;Indefinido;Indefinido;Indefinido
+1241;350;Campânula;3,5;0,49;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1242;350;Campânula;3,51;0,42;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1243;350;Campânula;3,5;0,34;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1244;620;Fornalha;3,48;0,6;35;19;20;10;84;C;Indefinido;Indefinido;Indefinido
+1245;680;Fornalha;3,58;0,6;35;25;20;10;90;B;Indefinido;Indefinido;Indefinido
+1246;343;Campânula;3,85;0,47;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1247;333;Campânula;3,53;0,31;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1248;554;Fornalha;3,3;0,4;24;19;20;15;78;C;Indefinido;Indefinido;Indefinido
+1249;554;Fornalha;3,21;0,43;24;19;20;15;78;C;Indefinido;Indefinido;Indefinido
+1250;344;Campânula;4,16;0,26;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1251;344;Campânula;3,93;0,27;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1252;333;Campânula;3,86;0,3;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1253;333;Campânula;3,68;0,33;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1254;650;Fornalha;4,06;0,15;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1255;650;Fornalha;4,18;0,72;35;25;20;10;90;B;Indefinido;Indefinido;Indefinido
+1257;650;Fornalha;4,28;0,69;35;25;20;10;90;B;Indefinido;Indefinido;Indefinido
+1258;572;Fornalha;3,53;0;24;25;20;0;69;D;Indefinido;Indefinido;Indefinido
+1259;572;Fornalha;3,85;0,88;24;25;20;5;74;C;Indefinido;Indefinido;Indefinido
+1260;333;Campânula;3,35;0,31;35;19;20;20;94;B;Indefinido;Indefinido;Indefinido
+1261;333;Campânula;3,78;0,43;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1262;333;Campânula;3,96;0,31;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1263;333;Campânula;3,9;0,33;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1264;333;Campânula;3,58;0,39;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1265;333;Campânula;3,35;0,28;35;19;20;20;94;B;Indefinido;Indefinido;Indefinido
+1266;333;Campânula;3,6;0,35;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1267;333;Campânula;3,28;0,37;35;19;20;20;94;A;Indefinido;Indefinido;Indefinido
+1268;330;Campânula;4;0,39;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1269;330;Campânula;4,4;0,39;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1270;330;Campânula;4,45;0,3;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1271;350;Campânula;3,56;0,42;35;25;20;0;80;C;Indefinido;Indefinido;Indefinido
+1272;350;Campânula;3,35;0,42;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1273;350;Campânula;3,46;0,4;35;19;20;15;89;B;Indefinido;Indefinido;Indefinido
+1274;350;Campânula;3,5;0,42;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1275;333;Campânula;3,76;0,5;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1276;333;Campânula;3,8;0,45;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1277;333;Campânula;3,63;0,43;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1278;333;Campânula;3,71;0,45;35;25;20;15;95;B;Indefinido;Indefinido;Indefinido
+1279;333;Campânula;3,48;0,35;35;19;20;20;94;B;Indefinido;Indefinido;Indefinido
+1280;333;Campânula;3,53;0,37;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1281;345;Campânula;4,33;0,22;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1282;345;Campânula;4,48;0,23;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1283;345;Campânula;4,26;0,2;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1284;345;Campânula;3,96;0,23;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1285;459;Fornalha;3,56;0,4;12;25;20;15;72;C;Indefinido;Indefinido;Indefinido
+1286;459;Fornalha;3,46;0,38;12;19;20;20;71;C;Indefinido;Indefinido;Indefinido
+1287;459;Fornalha;3,46;0,34;12;19;20;20;71;C;Indefinido;Indefinido;Indefinido
+1288;350;Campânula;3,5;0;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1291;333;Campânula;3,7;0,25;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1293;380;Campânula;4,15;0,28;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1294;355;Campânula;4,38;0,28;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1295;350;Campânula;3,56;0,28;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1296;345;Campânula;3,88;0,26;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1297;345;Campânula;3,98;0,26;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1298;354;Campânula;4,51;0,24;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1299;354;Campânula;4,31;0,26;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1300;355;Campânula;4,5;0,26;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1301;355;Campânula;4,3;0,26;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1302;384;Fornalha;3,7;1,12;12;25;20;0;57;D;Indefinido;Indefinido;Indefinido
+1304;355;Campânula;3,9;0,2;35;25;20;20;100;A;Indefinido;Indefinido;Indefinido
+1305;488;Fornalha;3,23;0,38;24;19;20;20;83;C;Indefinido;Indefinido;Indefinido
+1306;498;Fornalha;3,21;0,4;24;19;20;15;78;C;Indefinido;Indefinido;Indefinido
+1310;625;Fornalha;3,7;0,94;35;25;20;5;85;B;Indefinido;Indefinido;Indefinido
+1311;625;Fornalha;3,86;0,94;35;25;20;5;85;B;Indefinido;Indefinido;Indefinido
+1312;625;Fornalha;3,61;0,94;35;25;20;5;85;B;Indefinido;Indefinido;Indefinido
+1313;625;Fornalha;3,68;1,16;35;25;20;0;80;C;Indefinido;Indefinido;Indefinido
+1315;355;Campânula;3,83;0,23;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1317;354;Campânula;4,51;0,31;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1318;1091;Fornalha;2,55;0,52;35;13;13;15;76;C;Indefinido;Indefinido;Indefinido
+1319;1091;Fornalha;2,58;0,57;35;13;13;15;76;C;Indefinido;Indefinido;Indefinido
+1320;1091;Fornalha;2,58;0,54;35;13;13;15;76;C;Indefinido;Indefinido;Indefinido
+1321;1091;Fornalha;2,58;0,54;35;13;13;15;76;C;Indefinido;Indefinido;Indefinido
+1322;1225;Fornalha;2,75;0,57;35;13;13;15;76;C;Indefinido;Indefinido;Indefinido
+1323;1225;Fornalha;2,75;0,57;35;13;13;15;76;C;Indefinido;Indefinido;Indefinido
+1324;1225;Fornalha;2,71;0,64;35;13;13;10;71;C;Indefinido;Indefinido;Indefinido
+1325;1225;Fornalha;2,71;0,64;35;13;13;10;71;C;Indefinido;Indefinido;Indefinido
+1333;1140;Fornalha;3,9;0,3;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1334;1140;Fornalha;3,7;0,32;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1335;1140;Fornalha;3,9;0,37;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
+1336;1140;Fornalha;3,71;0,32;35;25;20;20;100;B;Indefinido;Indefinido;Indefinido
