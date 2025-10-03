@@ -70,7 +70,7 @@ class DataManager:
     def get_merged_data(self):
         return self.df_merged
 
-    def save_to_sqlite(self, db_name="aviarios.db", table_name="dados_consolidados"):
+    def save_to_sqlite(self, db_name="database/aviarios.db", table_name="dados_consolidados"):
         if self.df_merged is not None:
             import sqlite3
             conn = sqlite3.connect(db_name)

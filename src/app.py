@@ -10,7 +10,7 @@ st.set_page_config(layout="wide")
 st.title("Comparativo de Desempenho de Aviários")
 
 # Connect to the SQLite database
-conn = sqlite3.connect('aviarios.db')
+conn = sqlite3.connect('database/aviarios.db')
 
 # Load the consolidated data into a pandas DataFrame
 df = pd.read_sql_query("SELECT * FROM dados_consolidados", conn)
